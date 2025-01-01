@@ -70,3 +70,9 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03:23:16] [Server thread/INFO]: [LagTrainZ: Successfully filled 1113 block(s)]
 [03:24:14] [Server thread/INFO]: LagTrainZ issued server command: /fill 1281 104 -1067 1308 108 -1128 minecraft:grass_block
 [03:24:14] [Server thread/INFO]: [LagTrainZ: Successfully filled 7399 block(s)]
+[03:28:09] [Server thread/INFO]: LagTrainZ issued server command: /?
+[03:34:20] [Async Chat Thread - #1/INFO]: [Not Secure] <LagTrainZ> 1330 109 -1129
+[03:35:13] [Server thread/INFO]: LagTrainZ issued server command: /fill 1265 108 -1069 1330 108 -1129 minecraft:grass_block
+[03:35:13] [Server thread/INFO]: [LagTrainZ: Successfully filled 1981 block(s)]
+[03:35:25] [Server thread/INFO]: LagTrainZ issued server command: /fill 1265 109 -1069 1330 109 -1129 minecraft:grass_block
+[03:35:25] [Server thread/INFO]: [LagTrainZ: Successfully filled 2813 block(s)]
