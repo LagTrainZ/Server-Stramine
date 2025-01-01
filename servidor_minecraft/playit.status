@@ -1,140 +1,1544 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735705842233 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735710290793 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIVJBAAAAAQAAAAEAAAAAAAAAAHxsZOfkr4u7PmjPJ5lC60hr2TCSX_oJLzK3f_kk3q_z
-
-TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
-details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705845361 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIVJBAAAAAQAAAAEAAAAAAAAAAHxsZOfkr4u7PmjPJ5lC60hr2TCSX_oJLzK3f_kk3q_z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZTOJAAAAAQAAAAEAAAAAAAAAAGdCpX9BRSiYdqVxYZCBlEUHt0zTjoqn-VOKPC4jt_DO
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705848424 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710293924 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIVJBAAAAAQAAAAEAAAAAAAAAAHxsZOfkr4u7PmjPJ5lC60hr2TCSX_oJLzK3f_kk3q_z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZTOJAAAAAQAAAAEAAAAAAAAAAGdCpX9BRSiYdqVxYZCBlEUHt0zTjoqn-VOKPC4jt_DO
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705851481 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710296986 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIVJBAAAAAQAAAAEAAAAAAAAAAHxsZOfkr4u7PmjPJ5lC60hr2TCSX_oJLzK3f_kk3q_z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZTOJAAAAAQAAAAEAAAAAAAAAAGdCpX9BRSiYdqVxYZCBlEUHt0zTjoqn-VOKPC4jt_DO
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705854537 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710300047 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIVJBAAAAAQAAAAEAAAAAAAAAAHxsZOfkr4u7PmjPJ5lC60hr2TCSX_oJLzK3f_kk3q_z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZTOJAAAAAQAAAAEAAAAAAAAAAGdCpX9BRSiYdqVxYZCBlEUHt0zTjoqn-VOKPC4jt_DO
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705857594 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710303113 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIY4-AAAAAQAAAAEAAAAAAAAAAFeMWJZgEO_USQdqVEd44yQ7ZFA3UWG25AvuYOsFCqoR
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZTOJAAAAAQAAAAEAAAAAAAAAAGdCpX9BRSiYdqVxYZCBlEUHt0zTjoqn-VOKPC4jt_DO
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705860712 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710306171 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIY4-AAAAAQAAAAEAAAAAAAAAAFeMWJZgEO_USQdqVEd44yQ7ZFA3UWG25AvuYOsFCqoR
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZW-tAAAAAQAAAAEAAAAAAAAAAIj-t7Or8B_pSZi74LAN9IL8Yg6NGX-gnNmZtNVggPy6
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705863771 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710309326 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIY4-AAAAAQAAAAEAAAAAAAAAAFeMWJZgEO_USQdqVEd44yQ7ZFA3UWG25AvuYOsFCqoR
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZW-tAAAAAQAAAAEAAAAAAAAAAIj-t7Or8B_pSZi74LAN9IL8Yg6NGX-gnNmZtNVggPy6
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705866833 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710312397 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIY4-AAAAAQAAAAEAAAAAAAAAAFeMWJZgEO_USQdqVEd44yQ7ZFA3UWG25AvuYOsFCqoR
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZW-tAAAAAQAAAAEAAAAAAAAAAIj-t7Or8B_pSZi74LAN9IL8Yg6NGX-gnNmZtNVggPy6
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705869905 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710315466 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIY4-AAAAAQAAAAEAAAAAAAAAAFeMWJZgEO_USQdqVEd44yQ7ZFA3UWG25AvuYOsFCqoR
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZW-tAAAAAQAAAAEAAAAAAAAAAIj-t7Or8B_pSZi74LAN9IL8Yg6NGX-gnNmZtNVggPy6
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705872979 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710318543 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIcpTAAAAAQAAAAEAAAAAAAAAABxLH7DCGdtUfbLr2NTCeUHMoq7EUOw2OIOWIsUYktx-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZW-tAAAAAQAAAAEAAAAAAAAAAIj-t7Or8B_pSZi74LAN9IL8Yg6NGX-gnNmZtNVggPy6
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705876090 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710321623 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIcpTAAAAAQAAAAEAAAAAAAAAABxLH7DCGdtUfbLr2NTCeUHMoq7EUOw2OIOWIsUYktx-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZav3AAAAAQAAAAEAAAAAAAAAALPp0rZ166Tf5i4GBEqpaTxXDp14OgrsYEu1AJCrHV55
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705879172 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710324765 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIcpTAAAAAQAAAAEAAAAAAAAAABxLH7DCGdtUfbLr2NTCeUHMoq7EUOw2OIOWIsUYktx-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZav3AAAAAQAAAAEAAAAAAAAAALPp0rZ166Tf5i4GBEqpaTxXDp14OgrsYEu1AJCrHV55
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705882232 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710327824 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIcpTAAAAAQAAAAEAAAAAAAAAABxLH7DCGdtUfbLr2NTCeUHMoq7EUOw2OIOWIsUYktx-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZav3AAAAAQAAAAEAAAAAAAAAALPp0rZ166Tf5i4GBEqpaTxXDp14OgrsYEu1AJCrHV55
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705885317 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710330900 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIcpTAAAAAQAAAAEAAAAAAAAAABxLH7DCGdtUfbLr2NTCeUHMoq7EUOw2OIOWIsUYktx-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZav3AAAAAQAAAAEAAAAAAAAAALPp0rZ166Tf5i4GBEqpaTxXDp14OgrsYEu1AJCrHV55
 
 TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705888383 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710334042 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIgaBAAAAAQAAAAEAAAAAAAAAALXnMYyOjT7PKWe6nPw2n9lh9ZhPohJxhEbDqfUpuQW-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZav3AAAAAQAAAAEAAAAAAAAAALPp0rZ166Tf5i4GBEqpaTxXDp14OgrsYEu1AJCrHV55
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705891499 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710337269 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIgaBAAAAAQAAAAEAAAAAAAAAALXnMYyOjT7PKWe6nPw2n9lh9ZhPohJxhEbDqfUpuQW-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZekXAAAAAQAAAAEAAAAAAAAAAIgUQVWkFKsoYS6rIbHuHRCmy_AVSKzsFKFBp6nkSQo1
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705894557 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710340475 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIgaBAAAAAQAAAAEAAAAAAAAAALXnMYyOjT7PKWe6nPw2n9lh9ZhPohJxhEbDqfUpuQW-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZekXAAAAAQAAAAEAAAAAAAAAAIgUQVWkFKsoYS6rIbHuHRCmy_AVSKzsFKFBp6nkSQo1
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705897620 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710343536 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIgaBAAAAAQAAAAEAAAAAAAAAALXnMYyOjT7PKWe6nPw2n9lh9ZhPohJxhEbDqfUpuQW-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZekXAAAAAQAAAAEAAAAAAAAAAIgUQVWkFKsoYS6rIbHuHRCmy_AVSKzsFKFBp6nkSQo1
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735705900689 tunnel running, 2 tunnels registered
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710346600 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgIgaBAAAAAQAAAAEAAAAAAAAAALXnMYyOjT7PKWe6nPw2n9lh9ZhPohJxhEbDqfUpuQW-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZekXAAAAAQAAAAEAAAAAAAAAAIgUQVWkFKsoYS6rIbHuHRCmy_AVSKzsFKFBp6nkSQo1
 
 TUNNELS
-basic-morgan.gl.at.ply.gg:3549 => 127.0.0.1:3522 (minecraft-bedrock)
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710349669 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZekXAAAAAQAAAAEAAAAAAAAAAIgUQVWkFKsoYS6rIbHuHRCmy_AVSKzsFKFBp6nkSQo1
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710352738 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZiWCAAAAAQAAAAEAAAAAAAAAAIc55xozpw2_nBn0PcPJquEd_wTrzueUXYOPeynFuogs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710355869 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZiWCAAAAAQAAAAEAAAAAAAAAAIc55xozpw2_nBn0PcPJquEd_wTrzueUXYOPeynFuogs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710358936 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZiWCAAAAAQAAAAEAAAAAAAAAAIc55xozpw2_nBn0PcPJquEd_wTrzueUXYOPeynFuogs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710361998 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZiWCAAAAAQAAAAEAAAAAAAAAAIc55xozpw2_nBn0PcPJquEd_wTrzueUXYOPeynFuogs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710365071 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZiWCAAAAAQAAAAEAAAAAAAAAAIc55xozpw2_nBn0PcPJquEd_wTrzueUXYOPeynFuogs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710368152 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZmHJAAAAAQAAAAEAAAAAAAAAAFcR1a1XmOYj3uZhjLjhx7TYA_zpnI6EScb5YW2aarmi
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710371293 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZmHJAAAAAQAAAAEAAAAAAAAAAFcR1a1XmOYj3uZhjLjhx7TYA_zpnI6EScb5YW2aarmi
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710374377 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZmHJAAAAAQAAAAEAAAAAAAAAAFcR1a1XmOYj3uZhjLjhx7TYA_zpnI6EScb5YW2aarmi
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710377452 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZmHJAAAAAQAAAAEAAAAAAAAAAFcR1a1XmOYj3uZhjLjhx7TYA_zpnI6EScb5YW2aarmi
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710380524 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZmHJAAAAAQAAAAEAAAAAAAAAAFcR1a1XmOYj3uZhjLjhx7TYA_zpnI6EScb5YW2aarmi
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710383598 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZp4NAAAAAQAAAAEAAAAAAAAAAI0ppxfI9PJ0O5zgtFGND7MvSIchVyv4d-h3lY7YivGN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710386713 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZp4NAAAAAQAAAAEAAAAAAAAAAI0ppxfI9PJ0O5zgtFGND7MvSIchVyv4d-h3lY7YivGN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710389772 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZp4NAAAAAQAAAAEAAAAAAAAAAI0ppxfI9PJ0O5zgtFGND7MvSIchVyv4d-h3lY7YivGN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710392830 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZp4NAAAAAQAAAAEAAAAAAAAAAI0ppxfI9PJ0O5zgtFGND7MvSIchVyv4d-h3lY7YivGN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710395985 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZp4NAAAAAQAAAAEAAAAAAAAAAI0ppxfI9PJ0O5zgtFGND7MvSIchVyv4d-h3lY7YivGN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710399043 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZtphAAAAAQAAAAEAAAAAAAAAAP2oBAI5MarseRbeOWoXdt_UxPTWDmsZ80UN31ocONyX
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710402156 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZtphAAAAAQAAAAEAAAAAAAAAAP2oBAI5MarseRbeOWoXdt_UxPTWDmsZ80UN31ocONyX
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710405231 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZtphAAAAAQAAAAEAAAAAAAAAAP2oBAI5MarseRbeOWoXdt_UxPTWDmsZ80UN31ocONyX
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710408289 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZtphAAAAAQAAAAEAAAAAAAAAAP2oBAI5MarseRbeOWoXdt_UxPTWDmsZ80UN31ocONyX
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710411350 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZtphAAAAAQAAAAEAAAAAAAAAAP2oBAI5MarseRbeOWoXdt_UxPTWDmsZ80UN31ocONyX
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710414415 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZxZrAAAAAQAAAAEAAAAAAAAAAF5-HN462krQ8PmmNZWPGoAwdgJvrbapyyLiGRHp85Us
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710417525 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZxZrAAAAAQAAAAEAAAAAAAAAAF5-HN462krQ8PmmNZWPGoAwdgJvrbapyyLiGRHp85Us
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710420588 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZxZrAAAAAQAAAAEAAAAAAAAAAF5-HN462krQ8PmmNZWPGoAwdgJvrbapyyLiGRHp85Us
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710423643 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZxZrAAAAAQAAAAEAAAAAAAAAAF5-HN462krQ8PmmNZWPGoAwdgJvrbapyyLiGRHp85Us
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710426708 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZxZrAAAAAQAAAAEAAAAAAAAAAF5-HN462krQ8PmmNZWPGoAwdgJvrbapyyLiGRHp85Us
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710429770 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ1JpAAAAAQAAAAEAAAAAAAAAAGPBGkm85QsBBpjj4t51piBe1k1Jas7T6yr9lYwcXboB
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710432881 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ1JpAAAAAQAAAAEAAAAAAAAAAGPBGkm85QsBBpjj4t51piBe1k1Jas7T6yr9lYwcXboB
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710435944 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ1JpAAAAAQAAAAEAAAAAAAAAAGPBGkm85QsBBpjj4t51piBe1k1Jas7T6yr9lYwcXboB
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710439001 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ1JpAAAAAQAAAAEAAAAAAAAAAGPBGkm85QsBBpjj4t51piBe1k1Jas7T6yr9lYwcXboB
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710442066 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ1JpAAAAAQAAAAEAAAAAAAAAAGPBGkm85QsBBpjj4t51piBe1k1Jas7T6yr9lYwcXboB
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710445129 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ45uAAAAAQAAAAEAAAAAAAAAAMuQjo-_OM-79oKkZs6njllVfpkLoDehOqCwoTcQGwdW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710448251 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ45uAAAAAQAAAAEAAAAAAAAAAMuQjo-_OM-79oKkZs6njllVfpkLoDehOqCwoTcQGwdW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710451617 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ45uAAAAAQAAAAEAAAAAAAAAAMuQjo-_OM-79oKkZs6njllVfpkLoDehOqCwoTcQGwdW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710454679 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ45uAAAAAQAAAAEAAAAAAAAAAMuQjo-_OM-79oKkZs6njllVfpkLoDehOqCwoTcQGwdW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710457742 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ45uAAAAAQAAAAEAAAAAAAAAAMuQjo-_OM-79oKkZs6njllVfpkLoDehOqCwoTcQGwdW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710460805 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ8uiAAAAAQAAAAEAAAAAAAAAAJv49l2i4aOr0Z9cN_fg8BjybNlklC6PqEw7J4h-kj7X
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710463913 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ8uiAAAAAQAAAAEAAAAAAAAAAJv49l2i4aOr0Z9cN_fg8BjybNlklC6PqEw7J4h-kj7X
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710466976 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ8uiAAAAAQAAAAEAAAAAAAAAAJv49l2i4aOr0Z9cN_fg8BjybNlklC6PqEw7J4h-kj7X
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710470157 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ8uiAAAAAQAAAAEAAAAAAAAAAJv49l2i4aOr0Z9cN_fg8BjybNlklC6PqEw7J4h-kj7X
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710473222 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgZ8uiAAAAAQAAAAEAAAAAAAAAAJv49l2i4aOr0Z9cN_fg8BjybNlklC6PqEw7J4h-kj7X
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710476346 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaAhlAAAAAQAAAAEAAAAAAAAAALnEXU1pRBlSiLz6HCDEKgu9mDCGfMXHrvNXtGqmLUUs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710479482 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaAhlAAAAAQAAAAEAAAAAAAAAALnEXU1pRBlSiLz6HCDEKgu9mDCGfMXHrvNXtGqmLUUs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710482546 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaAhlAAAAAQAAAAEAAAAAAAAAALnEXU1pRBlSiLz6HCDEKgu9mDCGfMXHrvNXtGqmLUUs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710485620 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaAhlAAAAAQAAAAEAAAAAAAAAALnEXU1pRBlSiLz6HCDEKgu9mDCGfMXHrvNXtGqmLUUs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710488687 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaAhlAAAAAQAAAAEAAAAAAAAAALnEXU1pRBlSiLz6HCDEKgu9mDCGfMXHrvNXtGqmLUUs
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710491752 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaESFAAAAAQAAAAEAAAAAAAAAAAZlPUCCBnx503f-9cgt4DhMb4xbsEhMReNQQI2ITSF-
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710494866 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaESFAAAAAQAAAAEAAAAAAAAAAAZlPUCCBnx503f-9cgt4DhMb4xbsEhMReNQQI2ITSF-
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710497925 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaESFAAAAAQAAAAEAAAAAAAAAAAZlPUCCBnx503f-9cgt4DhMb4xbsEhMReNQQI2ITSF-
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710500985 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaESFAAAAAQAAAAEAAAAAAAAAAAZlPUCCBnx503f-9cgt4DhMb4xbsEhMReNQQI2ITSF-
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710504044 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaESFAAAAAQAAAAEAAAAAAAAAAAZlPUCCBnx503f-9cgt4DhMb4xbsEhMReNQQI2ITSF-
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710507121 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaICPAAAAAQAAAAEAAAAAAAAAAKk8jENVbnFUd2VSPUfj5cMzNPjDqPclAZsSk-4EQ098
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710510247 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaICPAAAAAQAAAAEAAAAAAAAAAKk8jENVbnFUd2VSPUfj5cMzNPjDqPclAZsSk-4EQ098
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710513425 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaICPAAAAAQAAAAEAAAAAAAAAAKk8jENVbnFUd2VSPUfj5cMzNPjDqPclAZsSk-4EQ098
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710516485 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaICPAAAAAQAAAAEAAAAAAAAAAKk8jENVbnFUd2VSPUfj5cMzNPjDqPclAZsSk-4EQ098
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710519546 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaICPAAAAAQAAAAEAAAAAAAAAAKk8jENVbnFUd2VSPUfj5cMzNPjDqPclAZsSk-4EQ098
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710522626 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaL0uAAAAAQAAAAEAAAAAAAAAADQd0aZN5AadV38v74tK9GGUj8nWncQJTyABjAJ31FpN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710525756 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaL0uAAAAAQAAAAEAAAAAAAAAADQd0aZN5AadV38v74tK9GGUj8nWncQJTyABjAJ31FpN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710528827 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaL0uAAAAAQAAAAEAAAAAAAAAADQd0aZN5AadV38v74tK9GGUj8nWncQJTyABjAJ31FpN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710531886 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaL0uAAAAAQAAAAEAAAAAAAAAADQd0aZN5AadV38v74tK9GGUj8nWncQJTyABjAJ31FpN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710534951 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaL0uAAAAAQAAAAEAAAAAAAAAADQd0aZN5AadV38v74tK9GGUj8nWncQJTyABjAJ31FpN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710538035 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaPlTAAAAAQAAAAEAAAAAAAAAAD0mo5OCd6tDfmiwkm3fBGj9rLFkP9003jK1Llc1SVru
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710541162 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaPlTAAAAAQAAAAEAAAAAAAAAAD0mo5OCd6tDfmiwkm3fBGj9rLFkP9003jK1Llc1SVru
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710544227 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaPlTAAAAAQAAAAEAAAAAAAAAAD0mo5OCd6tDfmiwkm3fBGj9rLFkP9003jK1Llc1SVru
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710547303 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaPlTAAAAAQAAAAEAAAAAAAAAAD0mo5OCd6tDfmiwkm3fBGj9rLFkP9003jK1Llc1SVru
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710550369 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaPlTAAAAAQAAAAEAAAAAAAAAAD0mo5OCd6tDfmiwkm3fBGj9rLFkP9003jK1Llc1SVru
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710553432 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaTV2AAAAAQAAAAEAAAAAAAAAAPfrCqeCtAE6DMOjuM5iS8c1rejxmyXSAS8Qmp3WHmVo
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710556554 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaTV2AAAAAQAAAAEAAAAAAAAAAPfrCqeCtAE6DMOjuM5iS8c1rejxmyXSAS8Qmp3WHmVo
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710559613 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaTV2AAAAAQAAAAEAAAAAAAAAAPfrCqeCtAE6DMOjuM5iS8c1rejxmyXSAS8Qmp3WHmVo
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710562674 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaTV2AAAAAQAAAAEAAAAAAAAAAPfrCqeCtAE6DMOjuM5iS8c1rejxmyXSAS8Qmp3WHmVo
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710565736 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaTV2AAAAAQAAAAEAAAAAAAAAAPfrCqeCtAE6DMOjuM5iS8c1rejxmyXSAS8Qmp3WHmVo
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710568802 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaXF-AAAAAQAAAAEAAAAAAAAAAB2zHASI7_yOFkvAIf10eYtsvl3hk60U7xp3cIf9djXd
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710571921 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaXF-AAAAAQAAAAEAAAAAAAAAAB2zHASI7_yOFkvAIf10eYtsvl3hk60U7xp3cIf9djXd
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710574978 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaXF-AAAAAQAAAAEAAAAAAAAAAB2zHASI7_yOFkvAIf10eYtsvl3hk60U7xp3cIf9djXd
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710578038 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaXF-AAAAAQAAAAEAAAAAAAAAAB2zHASI7_yOFkvAIf10eYtsvl3hk60U7xp3cIf9djXd
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710581101 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaXF-AAAAAQAAAAEAAAAAAAAAAB2zHASI7_yOFkvAIf10eYtsvl3hk60U7xp3cIf9djXd
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710584168 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaa2FAAAAAQAAAAEAAAAAAAAAABzo0Bkrez4AUcehIVvSL7xIAzNku617slKg2TwsVoqx
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710587313 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaa2FAAAAAQAAAAEAAAAAAAAAABzo0Bkrez4AUcehIVvSL7xIAzNku617slKg2TwsVoqx
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710590377 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaa2FAAAAAQAAAAEAAAAAAAAAABzo0Bkrez4AUcehIVvSL7xIAzNku617slKg2TwsVoqx
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710593438 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaa2FAAAAAQAAAAEAAAAAAAAAABzo0Bkrez4AUcehIVvSL7xIAzNku617slKg2TwsVoqx
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710596499 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaa2FAAAAAQAAAAEAAAAAAAAAABzo0Bkrez4AUcehIVvSL7xIAzNku617slKg2TwsVoqx
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710599567 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaemuAAAAAQAAAAEAAAAAAAAAAMMWwWwEKP8t7-y_rW4qhdtMbLyKNavYUvb1hVOdts9L
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710602693 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaemuAAAAAQAAAAEAAAAAAAAAAMMWwWwEKP8t7-y_rW4qhdtMbLyKNavYUvb1hVOdts9L
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710605765 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaemuAAAAAQAAAAEAAAAAAAAAAMMWwWwEKP8t7-y_rW4qhdtMbLyKNavYUvb1hVOdts9L
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710608834 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaemuAAAAAQAAAAEAAAAAAAAAAMMWwWwEKP8t7-y_rW4qhdtMbLyKNavYUvb1hVOdts9L
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710611902 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaemuAAAAAQAAAAEAAAAAAAAAAMMWwWwEKP8t7-y_rW4qhdtMbLyKNavYUvb1hVOdts9L
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710614966 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaiXbAAAAAQAAAAEAAAAAAAAAAITBS7M6ty2_MLQfHPLhs6xJhPWInk8wOf0IV1yQayjH
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710618107 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaiXbAAAAAQAAAAEAAAAAAAAAAITBS7M6ty2_MLQfHPLhs6xJhPWInk8wOf0IV1yQayjH
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710621169 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaiXbAAAAAQAAAAEAAAAAAAAAAITBS7M6ty2_MLQfHPLhs6xJhPWInk8wOf0IV1yQayjH
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710624234 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaiXbAAAAAQAAAAEAAAAAAAAAAITBS7M6ty2_MLQfHPLhs6xJhPWInk8wOf0IV1yQayjH
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710627295 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaiXbAAAAAQAAAAEAAAAAAAAAAITBS7M6ty2_MLQfHPLhs6xJhPWInk8wOf0IV1yQayjH
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710630360 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgamH8AAAAAQAAAAEAAAAAAAAAALRNQEg3UTY3-NO5mUVuPiuLsWOc5AlvxzS5gfjCW_XW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710633484 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgamH8AAAAAQAAAAEAAAAAAAAAALRNQEg3UTY3-NO5mUVuPiuLsWOc5AlvxzS5gfjCW_XW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710636556 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgamH8AAAAAQAAAAEAAAAAAAAAALRNQEg3UTY3-NO5mUVuPiuLsWOc5AlvxzS5gfjCW_XW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710639626 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgamH8AAAAAQAAAAEAAAAAAAAAALRNQEg3UTY3-NO5mUVuPiuLsWOc5AlvxzS5gfjCW_XW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710642688 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgamH8AAAAAQAAAAEAAAAAAAAAALRNQEg3UTY3-NO5mUVuPiuLsWOc5AlvxzS5gfjCW_XW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710645755 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgap4mAAAAAQAAAAEAAAAAAAAAAPSMBYryXY6hqZYMxarILI9gWjuMBi72M-JPAQDuX2iG
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710648882 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgap4mAAAAAQAAAAEAAAAAAAAAAPSMBYryXY6hqZYMxarILI9gWjuMBi72M-JPAQDuX2iG
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710651952 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgap4mAAAAAQAAAAEAAAAAAAAAAPSMBYryXY6hqZYMxarILI9gWjuMBi72M-JPAQDuX2iG
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710655021 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgap4mAAAAAQAAAAEAAAAAAAAAAPSMBYryXY6hqZYMxarILI9gWjuMBi72M-JPAQDuX2iG
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710658102 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgap4mAAAAAQAAAAEAAAAAAAAAAPSMBYryXY6hqZYMxarILI9gWjuMBi72M-JPAQDuX2iG
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710661160 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgatpEAAAAAQAAAAEAAAAAAAAAAPapqO6GQxaYirm1wnz6ILcQS3sD03lQ4boLqN6Gwfdg
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710664275 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgatpEAAAAAQAAAAEAAAAAAAAAAPapqO6GQxaYirm1wnz6ILcQS3sD03lQ4boLqN6Gwfdg
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710667345 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgatpEAAAAAQAAAAEAAAAAAAAAAPapqO6GQxaYirm1wnz6ILcQS3sD03lQ4boLqN6Gwfdg
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710670411 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgatpEAAAAAQAAAAEAAAAAAAAAAPapqO6GQxaYirm1wnz6ILcQS3sD03lQ4boLqN6Gwfdg
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710673475 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgatpEAAAAAQAAAAEAAAAAAAAAAPapqO6GQxaYirm1wnz6ILcQS3sD03lQ4boLqN6Gwfdg
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710676544 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaxZiAAAAAQAAAAEAAAAAAAAAADTUZ5K9aYjSf_8kGzGeX7ad_RZ5H3K9x7n6-1hGJsv9
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710679670 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaxZiAAAAAQAAAAEAAAAAAAAAADTUZ5K9aYjSf_8kGzGeX7ad_RZ5H3K9x7n6-1hGJsv9
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710682733 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaxZiAAAAAQAAAAEAAAAAAAAAADTUZ5K9aYjSf_8kGzGeX7ad_RZ5H3K9x7n6-1hGJsv9
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710685809 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaxZiAAAAAQAAAAEAAAAAAAAAADTUZ5K9aYjSf_8kGzGeX7ad_RZ5H3K9x7n6-1hGJsv9
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710688877 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgaxZiAAAAAQAAAAEAAAAAAAAAADTUZ5K9aYjSf_8kGzGeX7ad_RZ5H3K9x7n6-1hGJsv9
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710691939 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga1J_AAAAAQAAAAEAAAAAAAAAAEtK2GewcPKJ6vkQYFMAjX9CR8Q7YjxdIgFQJit7v4h1
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710695132 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga1J_AAAAAQAAAAEAAAAAAAAAAEtK2GewcPKJ6vkQYFMAjX9CR8Q7YjxdIgFQJit7v4h1
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710698201 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga1J_AAAAAQAAAAEAAAAAAAAAAEtK2GewcPKJ6vkQYFMAjX9CR8Q7YjxdIgFQJit7v4h1
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710701258 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga1J_AAAAAQAAAAEAAAAAAAAAAEtK2GewcPKJ6vkQYFMAjX9CR8Q7YjxdIgFQJit7v4h1
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710704317 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga1J_AAAAAQAAAAEAAAAAAAAAAEtK2GewcPKJ6vkQYFMAjX9CR8Q7YjxdIgFQJit7v4h1
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710707379 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga47XAAAAAQAAAAEAAAAAAAAAAFCtYjm9qUmEKm3MIoOQ9HgHnjsU6lVoqVLLPB3Se7zI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710710508 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga47XAAAAAQAAAAEAAAAAAAAAAFCtYjm9qUmEKm3MIoOQ9HgHnjsU6lVoqVLLPB3Se7zI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710713581 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga47XAAAAAQAAAAEAAAAAAAAAAFCtYjm9qUmEKm3MIoOQ9HgHnjsU6lVoqVLLPB3Se7zI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710716639 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga47XAAAAAQAAAAEAAAAAAAAAAFCtYjm9qUmEKm3MIoOQ9HgHnjsU6lVoqVLLPB3Se7zI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710719728 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga47XAAAAAQAAAAEAAAAAAAAAAFCtYjm9qUmEKm3MIoOQ9HgHnjsU6lVoqVLLPB3Se7zI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710722795 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga8sMAAAAAQAAAAEAAAAAAAAAALbM4kucLPp9YEIBvzXWGmYQ7hsIzu7LBVp7j5pp5B3R
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710725921 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga8sMAAAAAQAAAAEAAAAAAAAAALbM4kucLPp9YEIBvzXWGmYQ7hsIzu7LBVp7j5pp5B3R
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710728985 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga8sMAAAAAQAAAAEAAAAAAAAAALbM4kucLPp9YEIBvzXWGmYQ7hsIzu7LBVp7j5pp5B3R
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710732079 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga8sMAAAAAQAAAAEAAAAAAAAAALbM4kucLPp9YEIBvzXWGmYQ7hsIzu7LBVp7j5pp5B3R
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710735145 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQga8sMAAAAAQAAAAEAAAAAAAAAALbM4kucLPp9YEIBvzXWGmYQ7hsIzu7LBVp7j5pp5B3R
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710738212 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbAc_AAAAAQAAAAEAAAAAAAAAAMImBuQWyIp_SViMnJU8-rCkHrEo3plsDTyIccp1qMxI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710741330 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbAc_AAAAAQAAAAEAAAAAAAAAAMImBuQWyIp_SViMnJU8-rCkHrEo3plsDTyIccp1qMxI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710744398 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbAc_AAAAAQAAAAEAAAAAAAAAAMImBuQWyIp_SViMnJU8-rCkHrEo3plsDTyIccp1qMxI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710747463 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbAc_AAAAAQAAAAEAAAAAAAAAAMImBuQWyIp_SViMnJU8-rCkHrEo3plsDTyIccp1qMxI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710750537 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbAc_AAAAAQAAAAEAAAAAAAAAAMImBuQWyIp_SViMnJU8-rCkHrEo3plsDTyIccp1qMxI
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710753625 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbEN2AAAAAQAAAAEAAAAAAAAAAFIKoLfycNRvSfnCKzN-EXfOmouhkyG0qLcPeEYqz2fN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710756745 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbEN2AAAAAQAAAAEAAAAAAAAAAFIKoLfycNRvSfnCKzN-EXfOmouhkyG0qLcPeEYqz2fN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710759815 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbEN2AAAAAQAAAAEAAAAAAAAAAFIKoLfycNRvSfnCKzN-EXfOmouhkyG0qLcPeEYqz2fN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710762872 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbEN2AAAAAQAAAAEAAAAAAAAAAFIKoLfycNRvSfnCKzN-EXfOmouhkyG0qLcPeEYqz2fN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710765930 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbEN2AAAAAQAAAAEAAAAAAAAAAFIKoLfycNRvSfnCKzN-EXfOmouhkyG0qLcPeEYqz2fN
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710768999 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbH-OAAAAAQAAAAEAAAAAAAAAAAFfBOFTXaoKJlL8jM6jKUBdxeTytgvC9yMKPeOpHHZY
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710772129 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbH-OAAAAAQAAAAEAAAAAAAAAAAFfBOFTXaoKJlL8jM6jKUBdxeTytgvC9yMKPeOpHHZY
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710775197 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbH-OAAAAAQAAAAEAAAAAAAAAAAFfBOFTXaoKJlL8jM6jKUBdxeTytgvC9yMKPeOpHHZY
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710778261 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbH-OAAAAAQAAAAEAAAAAAAAAAAFfBOFTXaoKJlL8jM6jKUBdxeTytgvC9yMKPeOpHHZY
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710781320 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbH-OAAAAAQAAAAEAAAAAAAAAAAFfBOFTXaoKJlL8jM6jKUBdxeTytgvC9yMKPeOpHHZY
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710784380 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbLuYAAAAAQAAAAEAAAAAAAAAANWxPzFXQmLVOIsS53U-k3GUoAlVOK-HD69aAmjouoKu
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710787609 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbLuYAAAAAQAAAAEAAAAAAAAAANWxPzFXQmLVOIsS53U-k3GUoAlVOK-HD69aAmjouoKu
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710790678 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbLuYAAAAAQAAAAEAAAAAAAAAANWxPzFXQmLVOIsS53U-k3GUoAlVOK-HD69aAmjouoKu
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710793749 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbLuYAAAAAQAAAAEAAAAAAAAAANWxPzFXQmLVOIsS53U-k3GUoAlVOK-HD69aAmjouoKu
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710796815 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbLuYAAAAAQAAAAEAAAAAAAAAANWxPzFXQmLVOIsS53U-k3GUoAlVOK-HD69aAmjouoKu
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710799890 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbPgzAAAAAQAAAAEAAAAAAAAAAGHAX6Q8BU1EQDeJLTi8BrUlmMzT3nYGUoJ5PQqwX5lW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710803025 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbPgzAAAAAQAAAAEAAAAAAAAAAGHAX6Q8BU1EQDeJLTi8BrUlmMzT3nYGUoJ5PQqwX5lW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710806087 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbPgzAAAAAQAAAAEAAAAAAAAAAGHAX6Q8BU1EQDeJLTi8BrUlmMzT3nYGUoJ5PQqwX5lW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710809149 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbPgzAAAAAQAAAAEAAAAAAAAAAGHAX6Q8BU1EQDeJLTi8BrUlmMzT3nYGUoJ5PQqwX5lW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710812218 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbPgzAAAAAQAAAAEAAAAAAAAAAGHAX6Q8BU1EQDeJLTi8BrUlmMzT3nYGUoJ5PQqwX5lW
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710815288 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbTRhAAAAAQAAAAEAAAAAAAAAAI31JJD5IlbyiYsC2v9TSKLz9k426juwbpsuYqol_5D5
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710818421 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbTRhAAAAAQAAAAEAAAAAAAAAAI31JJD5IlbyiYsC2v9TSKLz9k426juwbpsuYqol_5D5
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710821483 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbTRhAAAAAQAAAAEAAAAAAAAAAI31JJD5IlbyiYsC2v9TSKLz9k426juwbpsuYqol_5D5
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710824547 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbTRhAAAAAQAAAAEAAAAAAAAAAI31JJD5IlbyiYsC2v9TSKLz9k426juwbpsuYqol_5D5
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710827604 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbTRhAAAAAQAAAAEAAAAAAAAAAI31JJD5IlbyiYsC2v9TSKLz9k426juwbpsuYqol_5D5
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710830681 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbXB0AAAAAQAAAAEAAAAAAAAAAK5Co_hBS7ad9zQgum70fmszlcR_W5oJ7fy4-2e_GPfJ
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710833796 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbXB0AAAAAQAAAAEAAAAAAAAAAK5Co_hBS7ad9zQgum70fmszlcR_W5oJ7fy4-2e_GPfJ
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710836866 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbXB0AAAAAQAAAAEAAAAAAAAAAK5Co_hBS7ad9zQgum70fmszlcR_W5oJ7fy4-2e_GPfJ
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710839930 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbXB0AAAAAQAAAAEAAAAAAAAAAK5Co_hBS7ad9zQgum70fmszlcR_W5oJ7fy4-2e_GPfJ
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710842987 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbXB0AAAAAQAAAAEAAAAAAAAAAK5Co_hBS7ad9zQgum70fmszlcR_W5oJ7fy4-2e_GPfJ
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710846067 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbayOAAAAAQAAAAEAAAAAAAAAANS2gaWeAty3TlB9e2XroQvl0-eiye87VfhHkMyFM8XP
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710849181 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbayOAAAAAQAAAAEAAAAAAAAAANS2gaWeAty3TlB9e2XroQvl0-eiye87VfhHkMyFM8XP
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710852250 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbayOAAAAAQAAAAEAAAAAAAAAANS2gaWeAty3TlB9e2XroQvl0-eiye87VfhHkMyFM8XP
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710855316 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbayOAAAAAQAAAAEAAAAAAAAAANS2gaWeAty3TlB9e2XroQvl0-eiye87VfhHkMyFM8XP
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710858379 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbayOAAAAAQAAAAEAAAAAAAAAANS2gaWeAty3TlB9e2XroQvl0-eiye87VfhHkMyFM8XP
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710861456 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbeipAAAAAQAAAAEAAAAAAAAAAIhM-c-yycfTfUJxILixK8CfkGVqAUeFJTfS4im2R6ul
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710864566 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbeipAAAAAQAAAAEAAAAAAAAAAIhM-c-yycfTfUJxILixK8CfkGVqAUeFJTfS4im2R6ul
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710867630 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbeipAAAAAQAAAAEAAAAAAAAAAIhM-c-yycfTfUJxILixK8CfkGVqAUeFJTfS4im2R6ul
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710870692 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbeipAAAAAQAAAAEAAAAAAAAAAIhM-c-yycfTfUJxILixK8CfkGVqAUeFJTfS4im2R6ul
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710873763 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbeipAAAAAQAAAAEAAAAAAAAAAIhM-c-yycfTfUJxILixK8CfkGVqAUeFJTfS4im2R6ul
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710876824 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbiSxAAAAAQAAAAEAAAAAAAAAAIxOCupPYsfjD0mF-624KgFm5bV8gppDleHticAYfMUh
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710879938 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbiSxAAAAAQAAAAEAAAAAAAAAAIxOCupPYsfjD0mF-624KgFm5bV8gppDleHticAYfMUh
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1735710882999 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgbiSxAAAAAQAAAAEAAAAAAAAAAIxOCupPYsfjD0mF-624KgFm5bV8gppDleHticAYfMUh
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (disabled)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
