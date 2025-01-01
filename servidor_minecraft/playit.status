@@ -68,3 +68,10 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCKlcAAA
 TUNNELS
 rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735704241520 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCOV6AAAAAQAAAAEAAAAAAAAAAL_kBsQ24V9w5SgGXinRE8Cm8jsbtK3X0Zg2lAEe69ZQ
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
