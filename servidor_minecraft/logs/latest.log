@@ -62,3 +62,6 @@
 [00:36:52] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
 [00:36:55] [Server thread/INFO]: LagTrainZ joined the game
 [00:36:55] [Server thread/INFO]: LagTrainZ[/127.205.196.112:42373] logged in with entity id 19 at ([world]-719.096389355419, 66.0, -1642.5630078589031)
+[00:50:07] [Async Chat Thread - #1/INFO]: [Not Secure] <LagTrainZ> -706 64 -1619
+[00:51:00] [Server thread/INFO]: LagTrainZ issued server command: /fill -721 67 -1647 -706 64 -1619
+[00:52:00] [Server thread/INFO]: LagTrainZ issued server command: /fill ~ ~ ~ -706 64 -1619
