@@ -1,76 +1,69 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735703958239 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1735704210731 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBJLyAAAAAQAAAAEAAAAAAAAAAF8wqiuab6BrPyIVGsp20OENgZZxFJPBtJyyFbrSyiWx
-
-TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
-details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703961386 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBJLyAAAAAQAAAAEAAAAAAAAAAF8wqiuab6BrPyIVGsp20OENgZZxFJPBtJyyFbrSyiWx
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCG03AAAAAQAAAAEAAAAAAAAAAAZLK768JICV61JNWyyYl_DsPrXXmJ7FBb1m4gEkVg5D
 
 TUNNELS
 rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703964450 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735704213855 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBJLyAAAAAQAAAAEAAAAAAAAAAF8wqiuab6BrPyIVGsp20OENgZZxFJPBtJyyFbrSyiWx
-
-TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
-details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703967507 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBJLyAAAAAQAAAAEAAAAAAAAAAF8wqiuab6BrPyIVGsp20OENgZZxFJPBtJyyFbrSyiWx
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCG03AAAAAQAAAAEAAAAAAAAAAAZLK768JICV61JNWyyYl_DsPrXXmJ7FBb1m4gEkVg5D
 
 TUNNELS
 rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703970566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735704216924 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBJLyAAAAAQAAAAEAAAAAAAAAAF8wqiuab6BrPyIVGsp20OENgZZxFJPBtJyyFbrSyiWx
-
-TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
-details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703973636 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBM8PAAAAAQAAAAEAAAAAAAAAAE10FdmVpFjWgYo_lVNcG0uMz-Spg4_-Bs1Dqt87lx4C
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCG03AAAAAQAAAAEAAAAAAAAAAAZLK768JICV61JNWyyYl_DsPrXXmJ7FBb1m4gEkVg5D
 
 TUNNELS
 rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703976756 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735704219997 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBM8PAAAAAQAAAAEAAAAAAAAAAE10FdmVpFjWgYo_lVNcG0uMz-Spg4_-Bs1Dqt87lx4C
-
-TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
-details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703979864 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBM8PAAAAAQAAAAEAAAAAAAAAAE10FdmVpFjWgYo_lVNcG0uMz-Spg4_-Bs1Dqt87lx4C
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCG03AAAAAQAAAAEAAAAAAAAAAAZLK768JICV61JNWyyYl_DsPrXXmJ7FBb1m4gEkVg5D
 
 TUNNELS
 rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703982929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735704223062 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBM8PAAAAAQAAAAEAAAAAAAAAAE10FdmVpFjWgYo_lVNcG0uMz-Spg4_-Bs1Dqt87lx4C
-
-TUNNELS
-rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
-details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703985993 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBM8PAAAAAQAAAAEAAAAAAAAAAE10FdmVpFjWgYo_lVNcG0uMz-Spg4_-Bs1Dqt87lx4C
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCG03AAAAAQAAAAEAAAAAAAAAAAZLK768JICV61JNWyyYl_DsPrXXmJ7FBb1m4gEkVg5D
 
 TUNNELS
 rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1735703989060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1735704226121 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgBQtLAAAAAQAAAAEAAAAAAAAAAEOj941oxcoW3ysPVorxAjtZrBb5FLA_-0HA3PhltQBl
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCKlcAAAAAQAAAAEAAAAAAAAAAPa0XZthqVWsg2y22FyvsivJ_GrBhQP18LXQwHoOoUpr
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735704229255 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCKlcAAAAAQAAAAEAAAAAAAAAAPa0XZthqVWsg2y22FyvsivJ_GrBhQP18LXQwHoOoUpr
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735704232326 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCKlcAAAAAQAAAAEAAAAAAAAAAPa0XZthqVWsg2y22FyvsivJ_GrBhQP18LXQwHoOoUpr
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735704235390 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCKlcAAAAAQAAAAEAAAAAAAAAAPa0XZthqVWsg2y22FyvsivJ_GrBhQP18LXQwHoOoUpr
+
+TUNNELS
+rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
+details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1735704238452 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQgCKlcAAAAAQAAAAEAAAAAAAAAAPa0XZthqVWsg2y22FyvsivJ_GrBhQP18LXQwHoOoUpr
 
 TUNNELS
 rather-wiley.gl.at.ply.gg:3522 => 127.0.0.1:3522 (minecraft-bedrock)
