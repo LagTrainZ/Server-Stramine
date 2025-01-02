@@ -131,6 +131,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-01-02 07:30:03 +0000",
       "minecraft:creeper": "2025-01-02 00:40:00 +0000"
     },
     "done": false
