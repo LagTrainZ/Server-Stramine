@@ -35,3 +35,9 @@
 [00:35:26] [Async Chat Thread - #12/INFO]: [Not Secure] <LagTrainZ> 214 77 -69
 [00:36:26] [Server thread/INFO]: LagTrainZ issued server command: /fill 238 87 -108 214 77 -69 air
 [00:36:26] [Server thread/INFO]: [LagTrainZ: Successfully filled 2051 block(s)]
+[00:40:00] [Server thread/INFO]: LagTrainZ has made the advancement [Monster Hunter]
+[00:41:22] [Async Chat Thread - #14/INFO]: [Not Secure] <LagTrainZ> 225 76 -131
+[00:42:42] [Server thread/INFO]: LagTrainZ issued server command: /fill 138 83 -94 225 76 -131 air
+[00:42:42] [Server thread/INFO]: [LagTrainZ: Successfully filled 1556 block(s)]
+[00:48:27] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[00:48:27] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
