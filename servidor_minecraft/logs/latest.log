@@ -49,3 +49,11 @@
 [00:55:41] [Server thread/INFO]: [LagTrainZ: Successfully filled 3070 block(s)]
 [00:58:48] [Server thread/INFO]: LagTrainZ issued server command: /time set day
 [00:58:48] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
+[01:02:21] [Async Chat Thread - #20/INFO]: [Not Secure] <LagTrainZ> 210 75 -65
+[01:02:45] [Server thread/INFO]: LagTrainZ issued server command: /fill 224 75 -100 210 75 -65 minecraft:grass_block
+[01:02:45] [Server thread/INFO]: [LagTrainZ: Successfully filled 491 block(s)]
+[01:04:14] [Async Chat Thread - #22/INFO]: [Not Secure] <LagTrainZ> 210 75 -52
+[01:05:09] [Server thread/INFO]: LagTrainZ issued server command: /fill 226 74 -65 210 75 -52 minecraft:grass_block
+[01:05:09] [Server thread/INFO]: [LagTrainZ: Successfully filled 429 block(s)]
+[01:08:57] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[01:08:57] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
