@@ -13,3 +13,8 @@
 [00:06:26] [Server thread/INFO]: [LagTrainZ: Successfully filled 5525 block(s)]
 [00:07:25] [Server thread/INFO]: LagTrainZ issued server command: /fill 177 75 -73 128 74 -88 minecraft:grass_block
 [00:07:25] [Server thread/INFO]: [LagTrainZ: Successfully filled 1599 block(s)]
+[00:13:47] [Async Chat Thread - #6/INFO]: [Not Secure] <LagTrainZ> 178 75 -87
+[00:14:33] [Server thread/INFO]: LagTrainZ issued server command: /fill 214 83 -72 178 75 -87 air
+[00:14:33] [Server thread/INFO]: [LagTrainZ: Successfully filled 4689 block(s)]
+[00:16:36] [Server thread/INFO]: LagTrainZ issued server command: /fill 221 76 -105 178 90 -87 air
+[00:16:36] [Server thread/INFO]: [LagTrainZ: Successfully filled 6401 block(s)]
