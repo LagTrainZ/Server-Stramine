@@ -1,92 +1,89 @@
-[00:00:04] [Async Chat Thread - #2/INFO]: [Not Secure] <LagTrainZ> 75
-[00:00:48] [Async Chat Thread - #2/INFO]: [Not Secure] <LagTrainZ> 115 75 -112
-[00:01:59] [Server thread/INFO]: LagTrainZ issued server command: /fill 237 75 -15 115 75 -112 air
-[00:01:59] [Server thread/INFO]: [LagTrainZ: Successfully filled 7316 block(s)]
-[00:02:16] [Server thread/INFO]: LagTrainZ issued server command: /fill 237 97 -15 115 75 -112 air
-[00:02:33] [Server thread/INFO]: LagTrainZ issued server command: /fill 237 89 -15 115 75 -112 air
-[00:03:18] [Server thread/INFO]: LagTrainZ issued server command: /fill 241 89 -83 115 75 -112 air
-[00:03:50] [Server thread/INFO]: LagTrainZ issued server command: /fill 193 89 -89 115 75 -112 air
-[00:03:50] [Server thread/INFO]: [LagTrainZ: Successfully filled 12301 block(s)]
-[00:04:41] [Async Chat Thread - #4/INFO]: [Not Secure] <LagTrainZ> 128 75 -88
-[00:05:50] [Server thread/INFO]: LagTrainZ issued server command: /fill 188 96 -59 128 74 -88 air
-[00:06:26] [Server thread/INFO]: LagTrainZ issued server command: /fill 177 88 -73 128 74 -88 air
-[00:06:26] [Server thread/INFO]: [LagTrainZ: Successfully filled 5525 block(s)]
-[00:07:25] [Server thread/INFO]: LagTrainZ issued server command: /fill 177 75 -73 128 74 -88 minecraft:grass_block
-[00:07:25] [Server thread/INFO]: [LagTrainZ: Successfully filled 1599 block(s)]
-[00:13:47] [Async Chat Thread - #6/INFO]: [Not Secure] <LagTrainZ> 178 75 -87
-[00:14:33] [Server thread/INFO]: LagTrainZ issued server command: /fill 214 83 -72 178 75 -87 air
-[00:14:33] [Server thread/INFO]: [LagTrainZ: Successfully filled 4689 block(s)]
-[00:16:36] [Server thread/INFO]: LagTrainZ issued server command: /fill 221 76 -105 178 90 -87 air
-[00:16:36] [Server thread/INFO]: [LagTrainZ: Successfully filled 6401 block(s)]
-[00:19:25] [Async Chat Thread - #8/INFO]: [Not Secure] <LagTrainZ> 177 84 -86
-[00:20:43] [Server thread/INFO]: LagTrainZ issued server command: /fill 226 84 -69 177 84 -86 air
-[00:20:43] [Server thread/INFO]: [LagTrainZ: Successfully filled 676 block(s)]
-[00:21:05] [Server thread/INFO]: LagTrainZ issued server command: /fill 226 94 -69 177 84 -86 air
-[00:21:05] [Server thread/INFO]: [LagTrainZ: Successfully filled 1747 block(s)]
-[00:23:04] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[00:23:04] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[00:28:52] [Async Chat Thread - #10/INFO]: [Not Secure] <LagTrainZ> 141 76 -71
-[00:29:34] [Server thread/INFO]: LagTrainZ issued server command: /fill 225 76 -43 141 76 -71 air
-[00:29:34] [Server thread/INFO]: [LagTrainZ: Successfully filled 1729 block(s)]
-[00:29:58] [Server thread/INFO]: LagTrainZ issued server command: /fill 225 88 -43 141 76 -71 air
-[00:29:58] [Server thread/INFO]: [LagTrainZ: Successfully filled 5764 block(s)]
-[00:34:50] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[00:34:50] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[00:35:26] [Async Chat Thread - #12/INFO]: [Not Secure] <LagTrainZ> 214 77 -69
-[00:36:26] [Server thread/INFO]: LagTrainZ issued server command: /fill 238 87 -108 214 77 -69 air
-[00:36:26] [Server thread/INFO]: [LagTrainZ: Successfully filled 2051 block(s)]
-[00:40:00] [Server thread/INFO]: LagTrainZ has made the advancement [Monster Hunter]
-[00:41:22] [Async Chat Thread - #14/INFO]: [Not Secure] <LagTrainZ> 225 76 -131
-[00:42:42] [Server thread/INFO]: LagTrainZ issued server command: /fill 138 83 -94 225 76 -131 air
-[00:42:42] [Server thread/INFO]: [LagTrainZ: Successfully filled 1556 block(s)]
-[00:48:27] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[00:48:27] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[00:51:20] [Async Chat Thread - #16/INFO]: [Not Secure] <LagTrainZ> 116 75 -111
-[00:51:50] [Server thread/INFO]: LagTrainZ issued server command: /fill 207 74 -89 116 75 -111 minecraft:grass_block
-[00:51:50] [Server thread/INFO]: [LagTrainZ: Successfully filled 4017 block(s)]
-[00:55:14] [Async Chat Thread - #18/INFO]: [Not Secure] <LagTrainZ> 152 75 -56
-[00:55:41] [Server thread/INFO]: LagTrainZ issued server command: /fill 207 74 -87 152 75 -56 minecraft:grass_block
-[00:55:41] [Server thread/INFO]: [LagTrainZ: Successfully filled 3070 block(s)]
-[00:58:48] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[00:58:48] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[01:02:21] [Async Chat Thread - #20/INFO]: [Not Secure] <LagTrainZ> 210 75 -65
-[01:02:45] [Server thread/INFO]: LagTrainZ issued server command: /fill 224 75 -100 210 75 -65 minecraft:grass_block
-[01:02:45] [Server thread/INFO]: [LagTrainZ: Successfully filled 491 block(s)]
-[01:04:14] [Async Chat Thread - #22/INFO]: [Not Secure] <LagTrainZ> 210 75 -52
-[01:05:09] [Server thread/INFO]: LagTrainZ issued server command: /fill 226 74 -65 210 75 -52 minecraft:grass_block
-[01:05:09] [Server thread/INFO]: [LagTrainZ: Successfully filled 429 block(s)]
-[01:08:57] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[01:08:57] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[01:10:05] [Server thread/INFO]: LagTrainZ lost connection: Disconnected
-[01:10:05] [Server thread/INFO]: LagTrainZ left the game
-[01:10:16] [Server thread/INFO]: Stopping the server
-[01:10:16] [Server thread/INFO]: Stopping server
-[01:10:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[01:10:16] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[01:10:16] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:10:16] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:10:16] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
-[01:10:16] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[01:10:16] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[01:10:16] [Server thread/INFO]: Saving players
-[01:10:16] [WebSocketConnectReadThread-94/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:10:16] [Server thread/INFO]: Saving worlds
-[01:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Saved 24 block chunks, 159 entity chunks, 0 poi chunks in world 'world' in 0.08s
-[01:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[01:10:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:10:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[01:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:10:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:27:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[01:27:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[01:27:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:27:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[01:27:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - Geyser-Spigot (2.6.0-SNAPSHOT), SkinsRestorer (15.5.1), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[01:27:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:27:06] [ServerMain/INFO]: Loaded 1290 recipes
+[01:27:06] [ServerMain/INFO]: Loaded 1399 advancements
+[01:27:06] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:27:06] [Server thread/INFO]: Loading properties
+[01:27:07] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[01:27:07] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:27:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:27:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:27:08] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:27:08] [Server thread/INFO]: Default game type: SURVIVAL
+[01:27:08] [Server thread/INFO]: Generating keypair
+[01:27:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:27:08] [Server thread/INFO]: Using epoll channel type
+[01:27:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:27:08] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:27:10] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[01:27:12] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:27:12] [Server thread/INFO]: [floodgate] Took 2,036ms to boot Floodgate
+[01:27:12] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[01:27:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[01:27:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[01:27:14] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[01:27:15] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[01:27:17] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:27:17] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:27:17] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[01:27:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:27:17] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[01:27:18] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:27:18] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:27:18] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:27:19] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:27:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:27:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:27:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:27:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:27:19] [Server thread/INFO]: Preparing level "world"
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:27:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:27:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:27:21] [Server thread/INFO]: Time elapsed: 1203 ms
+[01:27:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:27:21] [Server thread/INFO]: Time elapsed: 187 ms
+[01:27:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:27:21] [Server thread/INFO]: Time elapsed: 102 ms
+[01:27:21] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[01:27:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[01:27:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[01:27:22] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[01:27:22] [Server thread/INFO]: [spark] Starting background profiler...
+[01:27:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:27:23] [Server thread/INFO]: [Geyser-Spigot] 
+[01:27:23] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
+[01:27:23] [Server thread/INFO]: [Geyser-Spigot] 
+[01:27:23] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:27:30] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3550
+[01:27:30] [Server thread/INFO]: [Geyser-Spigot] Done (7.477s)! Run /geyser help for help!
+[01:27:31] [Server thread/INFO]: Done preparing level "world" (11.583s)
+[01:27:31] [Server thread/INFO]: Running delayed init tasks
+[01:27:31] [Server thread/INFO]: Done (31.536s)! For help, type "help"
+[01:27:31] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:27:31] [Server thread/INFO]: Timings Reset
+[01:27:31] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.2.0
+[01:27:40] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
+[01:27:42] [Server thread/INFO]: LagTrainZ joined the game
+[01:27:42] [Server thread/INFO]: LagTrainZ[/127.205.196.112:51565] logged in with entity id 23 at ([world]159.2881464349619, 99.74313606980465, -80.28451678803073)
+[01:29:25] [Server thread/INFO]: LagTrainZ issued server command: /spawnpoint
+[01:29:25] [Server thread/INFO]: [LagTrainZ: Set spawn point to 104, 75, -95 [0.0] in minecraft:overworld for LagTrainZ]
+[01:32:15] [Server thread/INFO]: LagTrainZ has made the advancement [Stone Age]
+[01:36:17] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[01:36:17] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
