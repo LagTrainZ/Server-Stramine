@@ -26,3 +26,12 @@
 [00:23:04] [Server thread/INFO]: LagTrainZ issued server command: /time set day
 [00:23:04] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
 [00:28:52] [Async Chat Thread - #10/INFO]: [Not Secure] <LagTrainZ> 141 76 -71
+[00:29:34] [Server thread/INFO]: LagTrainZ issued server command: /fill 225 76 -43 141 76 -71 air
+[00:29:34] [Server thread/INFO]: [LagTrainZ: Successfully filled 1729 block(s)]
+[00:29:58] [Server thread/INFO]: LagTrainZ issued server command: /fill 225 88 -43 141 76 -71 air
+[00:29:58] [Server thread/INFO]: [LagTrainZ: Successfully filled 5764 block(s)]
+[00:34:50] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[00:34:50] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
+[00:35:26] [Async Chat Thread - #12/INFO]: [Not Secure] <LagTrainZ> 214 77 -69
+[00:36:26] [Server thread/INFO]: LagTrainZ issued server command: /fill 238 87 -108 214 77 -69 air
+[00:36:26] [Server thread/INFO]: [LagTrainZ: Successfully filled 2051 block(s)]
