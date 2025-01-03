@@ -163,3 +163,70 @@
 [00:26:40] [Server thread/INFO]: .LagTrain1951 joined the game
 [00:26:40] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 1463 at ([world]51.94634, 64.0, -38.3)
 [00:26:53] [Async Chat Thread - #1/INFO]: [Not Secure] <.LagTrain1951> tu mamá
+[00:27:06] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[00:27:06] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:27:06] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
+[00:27:06] [localSession-7-2/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client timed out
+[00:27:06] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:27:06] [Server thread/INFO]: .Demonezzz left the game
+[00:27:06] [Server thread/INFO]: .LagTrain1951 lost connection: Disconnected
+[00:27:06] [Server thread/INFO]: .LagTrain1951 left the game
+[00:27:43] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[00:27:43] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[00:27:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[00:27:43] [Server thread/INFO]: .Demonezzz joined the game
+[00:27:43] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1519 at ([world]4.3, 70.0, 4.69999)
+[00:27:45] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username LagTrain1951
+[00:27:45] [localSession-7-4/INFO]: [Geyser-Spigot] LagTrain1951 (logged in as: LagTrain1951) has connected to the Java server
+[00:27:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 joined (UUID: 00000000-0000-0000-0009-01f865859a0b)
+[00:27:46] [Server thread/INFO]: .LagTrain1951 joined the game
+[00:27:46] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 1533 at ([world]41.30001, 66.0, -36.122597)
+[00:28:07] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:28:07] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[00:28:07] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:28:07] [Server thread/INFO]: .Demonezzz left the game
+[00:28:07] [localSession-7-4/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client timed out
+[00:28:07] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
+[00:28:07] [Server thread/INFO]: .LagTrain1951 lost connection: Disconnected
+[00:28:07] [Server thread/INFO]: .LagTrain1951 left the game
+[00:28:53] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LagTrain1951
+[00:28:53] [localSession-7-1/INFO]: [Geyser-Spigot] LagTrain1951 (logged in as: LagTrain1951) has connected to the Java server
+[00:28:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 joined (UUID: 00000000-0000-0000-0009-01f865859a0b)
+[00:28:53] [Server thread/INFO]: .LagTrain1951 joined the game
+[00:28:53] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 1582 at ([world]43.283653, 65.0, -37.69999)
+[00:29:03] [Server thread/INFO]: .LagTrain1951 was shot by Skeleton
+[00:29:14] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
+[00:29:14] [localSession-7-1/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client timed out
+[00:29:14] [Server thread/INFO]: .LagTrain1951 lost connection: Disconnected
+[00:29:14] [Server thread/INFO]: .LagTrain1951 left the game
+[00:34:13] [Server thread/INFO]: Stopping the server
+[00:34:13] [Server thread/INFO]: Stopping server
+[00:34:13] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[00:34:13] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:34:13] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:34:13] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:34:13] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[00:34:13] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:34:13] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:34:13] [Server thread/INFO]: Saving players
+[00:34:14] [WebSocketConnectReadThread-94/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:34:14] [Server thread/INFO]: Saving worlds
+[00:34:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 163 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[00:34:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:34:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:34:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:34:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:34:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:34:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:34:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
