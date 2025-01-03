@@ -1,483 +1,194 @@
-[21:40:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[21:40:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[21:40:03] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:40:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[21:40:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[23:16:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[23:16:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[23:16:54] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:16:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[23:16:55] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - Geyser-Spigot (2.6.0-SNAPSHOT), SkinsRestorer (15.5.1), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[21:40:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:40:09] [ServerMain/INFO]: Loaded 1290 recipes
-[21:40:09] [ServerMain/INFO]: Loaded 1399 advancements
-[21:40:10] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:40:10] [Server thread/INFO]: Loading properties
-[21:40:10] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[21:40:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:40:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:40:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:40:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:40:11] [Server thread/INFO]: Default game type: SURVIVAL
-[21:40:11] [Server thread/INFO]: Generating keypair
-[21:40:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:40:11] [Server thread/INFO]: Using epoll channel type
-[21:40:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:40:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:40:13] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[21:40:15] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[21:40:15] [Server thread/INFO]: [floodgate] Took 2,064ms to boot Floodgate
-[21:40:15] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[21:40:15] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[21:40:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:40:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:40:17] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[21:40:19] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[21:40:19] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[21:40:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[21:40:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:40:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[21:40:20] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[21:40:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[21:40:20] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[21:40:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:40:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:40:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:40:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:40:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:40:21] [Server thread/INFO]: Preparing level "world"
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:40:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:40:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:40:23] [Server thread/INFO]: Time elapsed: 1283 ms
-[21:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:40:23] [Server thread/INFO]: Time elapsed: 221 ms
-[21:40:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:40:23] [Server thread/INFO]: Time elapsed: 142 ms
-[21:40:23] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[21:40:24] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[21:40:24] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[21:40:24] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[21:40:24] [Server thread/INFO]: [spark] Starting background profiler...
-[21:40:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:40:25] [Server thread/INFO]: [Geyser-Spigot] 
-[21:40:25] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
-[21:40:25] [Server thread/INFO]: [Geyser-Spigot] 
-[21:40:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:40:31] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3550
-[21:40:32] [Server thread/INFO]: [Geyser-Spigot] Done (6.884s)! Run /geyser help for help!
-[21:40:32] [Server thread/INFO]: Done preparing level "world" (10.947s)
-[21:40:32] [Server thread/INFO]: Running delayed init tasks
-[21:40:32] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:40:32] [Server thread/INFO]: Done (29.831s)! For help, type "help"
-[21:40:32] [Server thread/INFO]: Timings Reset
-[21:40:32] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.2.0
-[21:41:35] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LagTrain1951
-[21:41:35] [localSession-7-2/INFO]: [Geyser-Spigot] LagTrain1951 (logged in as: LagTrain1951) has connected to the Java server
-[21:41:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 joined (UUID: 00000000-0000-0000-0009-01f865859a0b)
-[21:41:35] [Server thread/INFO]: .LagTrain1951 joined the game
-[21:41:36] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 76 at ([world]1.3143113, 85.0, -4.9810276)
-[21:41:52] [Server thread/INFO]: .LagTrain1951 issued server command: /gamemode c LagTrain1951
-[21:42:47] [Server thread/INFO]: No player was found
-[21:43:58] [localSession-7-2/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client disconnected
-[21:43:58] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
-[21:43:58] [Server thread/INFO]: .LagTrain1951 lost connection: Disconnected
-[21:43:58] [Server thread/INFO]: .LagTrain1951 left the game
-[21:46:20] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
-[21:46:23] [Server thread/INFO]: LagTrainZ joined the game
-[21:46:23] [Server thread/INFO]: LagTrainZ[/127.205.196.112:60873] logged in with entity id 415 at ([world]242.89612761090615, 88.98793026531986, -61.17122911923357)
-[21:46:55] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
-[21:46:55] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
-[21:46:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
-[21:46:55] [Server thread/INFO]: .Demonezzz joined the game
-[21:46:55] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 692 at ([world]4.3, 70.0, 4.69999)
-[21:47:28] [Server thread/INFO]: LagTrainZ issued server command: /tp .Demonezzz LagTrainZ
-[21:47:28] [Server thread/INFO]: [LagTrainZ: Teleported .Demonezzz to LagTrainZ]
-[21:47:28] [Server thread/WARN]: .Demonezzz moved too quickly! 185.50053358068175,5.0,-94.38022670920164
-[21:47:35] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[21:47:35] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[21:48:21] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> che
-[21:48:27] [Async Chat Thread - #0/INFO]: [Not Secure] <.Demonezzz> q
-[21:48:28] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> dejá de ver los pepinos
-[21:48:35] [Async Chat Thread - #0/INFO]: [Not Secure] <.Demonezzz> no eso n9 xe
-[21:48:41] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> xD
-[21:48:48] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> está funcionando bien
-[21:48:50] [Async Chat Thread - #0/INFO]: [Not Secure] <.Demonezzz> si4ve para ser una chimenea
-[21:48:55] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> no sé que pasó ayer
-[21:49:07] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> como así?
-[21:49:14] [Async Chat Thread - #0/INFO]: [Not Secure] <.Demonezzz> si
-[21:49:25] [Async Chat Thread - #0/INFO]: [Not Secure] <.Demonezzz> ponete survival
-[21:49:33] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> nop
-[21:49:43] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> hay que seguir construyendo
-[21:49:44] [Async Chat Thread - #0/INFO]: [Not Secure] <.Demonezzz> y comwnzemps una vida de villatrava
-[21:49:56] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> cuando termine las casas
-[21:50:00] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> tonoto
-[21:50:10] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> que ganas de decirte negro
-[21:50:28] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> pregunta
-[21:50:33] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client disconnected
-[21:50:33] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
-[21:50:33] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
-[21:50:33] [Server thread/INFO]: .Demonezzz left the game
-[21:51:35] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
-[21:51:35] [localSession-7-4/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
-[21:51:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
-[21:51:35] [Server thread/INFO]: .Demonezzz joined the game
-[21:51:35] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1555 at ([world]191.3454, 81.0, -109.38524)
-[21:52:16] [Server thread/WARN]: Player .Demonezzz just tried to change non-editable sign
-[21:52:16] [Server thread/WARN]: Player .Demonezzz just tried to change non-editable sign
-[21:52:17] [Server thread/WARN]: Player .Demonezzz just tried to change non-editable sign
-[21:54:41] [Server thread/INFO]: LagTrainZ lost connection: Timed out
-[21:54:41] [Server thread/INFO]: LagTrainZ left the game
-[21:54:49] [User Authenticator #1/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
-[21:54:51] [Server thread/INFO]: LagTrainZ joined the game
-[21:54:51] [Server thread/INFO]: LagTrainZ[/127.205.196.112:56629] logged in with entity id 1898 at ([world]205.02970458108334, 79.24341321608179, -106.28373790821061)
-[21:56:25] [Server thread/WARN]: .Demonezzz moved too quickly! -2.4800900000000183,-0.701279999999997,9.755333999999998
-[21:57:02] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[21:57:02] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[21:59:11] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
-[21:59:11] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
-[21:59:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
-[21:59:11] [Server thread/INFO]: .LautaroZzq joined the game
-[21:59:11] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 2977 at ([world]6.5, 67.0, 0.5)
-[21:59:22] [Server thread/INFO]: LagTrainZ issued server command: /tp .LautaroZzq LagTrainZ
-[21:59:22] [Server thread/INFO]: [LagTrainZ: Teleported .LautaroZzq to LagTrainZ]
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[21:59:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 190.73304281771817,10.633610320439033,-89.36099938141994
-[22:00:05] [Server thread/INFO]: .LautaroZzq was slain by LagTrainZ
-[22:00:22] [Server thread/INFO]: LagTrainZ issued server command: /tp .LautaroZzq LagTrainZ
-[22:00:22] [Server thread/INFO]: [LagTrainZ: Teleported .LautaroZzq to LagTrainZ]
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:00:22] [Server thread/WARN]: .LautaroZzq moved too quickly! 240.38570146453236,4.0,-101.88300905996184
-[22:05:48] [Server thread/INFO]: .Demonezzz fell from a high place
-[22:05:54] [Server thread/INFO]: LagTrainZ issued server command: /tp .Demonezzz LagTrainZ
-[22:05:54] [Server thread/INFO]: [LagTrainZ: Teleported .Demonezzz to LagTrainZ]
-[22:05:54] [Server thread/WARN]: .Demonezzz moved too quickly! -16.26016175902174,-5.5625,29.26793047788992
-[22:05:54] [Server thread/WARN]: .Demonezzz moved too quickly! -16.26016175902174,-5.5625,29.26793047788992
-[22:05:54] [Server thread/WARN]: .Demonezzz moved too quickly! -16.26016175902174,-5.5625,29.26793047788992
-[22:06:14] [Server thread/INFO]: LagTrainZ issued server command: /spawnpoint
-[22:06:14] [Server thread/INFO]: [LagTrainZ: Set spawn point to 233, 76, -82 [0.0] in minecraft:overworld for LagTrainZ]
-[22:07:37] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[22:07:37] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[22:07:53] [Server thread/INFO]: .LautaroZzq hit the ground too hard
-[22:08:10] [Server thread/INFO]: LagTrainZ issued server command: /tp .LautaroZzq LagTrainZ
-[22:08:10] [Server thread/INFO]: [LagTrainZ: Teleported .LautaroZzq to LagTrainZ]
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:08:10] [Server thread/WARN]: .LautaroZzq moved too quickly! 239.26347789973403,4.0,-91.53280175191247
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.202789999999993,1.0,-15.8379886
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .Demonezzz moved too quickly! -2.1615099999999927,1.1212799999999987,-15.6754216
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.511979999999994,-0.6815599999999975,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:34] [Server thread/WARN]: .LautaroZzq moved too quickly! -14.22287,-0.38002999999999787,17.09187
-[22:10:35] [Server thread/WARN]: .LautaroZzq moved too quickly! 16.137460000000004,1.7967099999999974,-2.174570000000003
-[22:11:32] [localSession-7-4/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
-[22:11:32] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
-[22:11:32] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
-[22:11:32] [Server thread/INFO]: .Demonezzz left the game
-[22:11:32] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
-[22:11:32] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
-[22:11:32] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
-[22:11:32] [Server thread/INFO]: .LautaroZzq left the game
-[22:11:56] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
-[22:11:56] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
-[22:11:56] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
-[22:11:56] [Server thread/INFO]: .LautaroZzq joined the game
-[22:11:56] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 5433 at ([world]140.24767, 63.0, 102.554665)
-[22:12:09] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
-[22:12:09] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
-[22:12:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
-[22:12:09] [Server thread/INFO]: .Demonezzz joined the game
-[22:12:09] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 5548 at ([world]205.29395, 76.0, -24.943829)
-[22:12:15] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client disconnected
-[22:12:15] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
-[22:12:15] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
-[22:12:15] [Server thread/INFO]: .Demonezzz left the game
-[22:12:42] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
-[22:12:42] [localSession-7-4/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
-[22:12:42] [User Authenticator #2/INFO]: UUID of player Demonezzz is dc95d097-0ad3-3a25-81f8-92635e292f1f
-[22:12:42] [Server thread/INFO]: Demonezzz joined the game
-[22:12:42] [Server thread/INFO]: Demonezzz[/127.0.0.1:0] logged in with entity id 5674 at ([world]-9.5, 84.0, -5.5)
-[22:13:35] [Server thread/INFO]: .LautaroZzq has made the advancement [Stone Age]
-[22:14:09] [Server thread/INFO]: .LautaroZzq was slain by Zombie
-[22:14:26] [Server thread/INFO]: LagTrainZ issued server command: /tp .LautaroZzq LagTrainZ
-[22:14:26] [Server thread/INFO]: [LagTrainZ: Teleported .LautaroZzq to LagTrainZ]
-[22:14:26] [Server thread/WARN]: .LautaroZzq moved too quickly! 231.79586336709428,3.0,-53.64885245894947
-[22:14:26] [Server thread/WARN]: .LautaroZzq moved too quickly! 231.79586336709428,3.0,-53.64885245894947
-[22:14:26] [Server thread/WARN]: .LautaroZzq moved too quickly! 231.79586336709428,3.0,-53.64885245894947
-[22:14:26] [Server thread/WARN]: .LautaroZzq moved too quickly! 231.79586336709428,3.0,-53.64885245894947
-[22:14:26] [Server thread/WARN]: .LautaroZzq moved too quickly! 231.79586336709428,3.0,-53.64885245894947
-[22:14:39] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
-[22:14:39] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
-[22:14:39] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
-[22:14:39] [localSession-7-4/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
-[22:14:39] [Server thread/INFO]: .LautaroZzq left the game
-[22:14:39] [Server thread/INFO]: Demonezzz lost connection: Disconnected
-[22:14:39] [Server thread/INFO]: Demonezzz left the game
-[22:14:48] [Server thread/INFO]: LagTrainZ lost connection: Disconnected
-[22:14:48] [Server thread/INFO]: LagTrainZ left the game
-[22:14:51] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
-[22:14:51] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
-[22:14:51] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
-[22:14:51] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
-[22:14:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
-[22:14:51] [Server thread/INFO]: .Demonezzz joined the game
-[22:14:51] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 6447 at ([world]205.29395, 76.0, -24.943829)
-[22:14:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
-[22:14:51] [Server thread/INFO]: .LautaroZzq joined the game
-[22:14:51] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 6456 at ([world]200.0958733670943, 76.0, -66.45266445894947)
-[22:14:57] [Server thread/INFO]: Stopping the server
-[22:14:57] [Server thread/INFO]: Stopping server
-[22:14:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[22:14:57] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[22:14:57] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[22:14:57] [Server thread/INFO]: [Geyser-Spigot] Kicking 2 player(s)
-[22:14:57] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Apagando el proxy de Geyser.
-[22:14:57] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
-[22:14:57] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Apagando el proxy de Geyser.
-[22:14:57] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
-[22:14:57] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
-[22:14:57] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[22:14:57] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
-[22:14:57] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[22:14:57] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[22:14:57] [Server thread/INFO]: Saving players
-[22:14:57] [Server thread/INFO]: .Demonezzz lost connection: Server closed
-[22:14:57] [Server thread/INFO]: .Demonezzz left the game
-[22:14:57] [Server thread/INFO]: .LautaroZzq lost connection: Server closed
-[22:14:57] [Server thread/INFO]: .LautaroZzq left the game
-[22:14:57] [WebSocketConnectReadThread-94/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[22:14:57] [Server thread/INFO]: Saving worlds
-[22:14:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:14:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[22:14:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[22:14:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Saved 429 block chunks, 434 entity chunks, 0 poi chunks in world 'world' in 0.64s
-[22:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[22:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[22:14:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[22:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:16:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:17:01] [ServerMain/INFO]: Loaded 1290 recipes
+[23:17:01] [ServerMain/INFO]: Loaded 1399 advancements
+[23:17:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:17:01] [Server thread/INFO]: Loading properties
+[23:17:01] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[23:17:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:17:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:17:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:17:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:17:03] [Server thread/INFO]: Default game type: SURVIVAL
+[23:17:03] [Server thread/INFO]: Generating keypair
+[23:17:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:17:03] [Server thread/INFO]: Using epoll channel type
+[23:17:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:17:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:17:04] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[23:17:06] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:17:06] [Server thread/INFO]: [floodgate] Took 2,127ms to boot Floodgate
+[23:17:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[23:17:06] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[23:17:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[23:17:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[23:17:08] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[23:17:10] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[23:17:10] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[23:17:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[23:17:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:17:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[23:17:11] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:17:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[23:17:11] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[23:17:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:17:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:17:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:17:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:17:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:17:12] [Server thread/INFO]: Preparing level "world"
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:17:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:17:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:17:14] [Server thread/INFO]: Time elapsed: 1102 ms
+[23:17:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:17:14] [Server thread/INFO]: Time elapsed: 203 ms
+[23:17:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:17:14] [Server thread/INFO]: Time elapsed: 128 ms
+[23:17:14] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[23:17:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[23:17:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[23:17:15] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[23:17:15] [Server thread/INFO]: [spark] Starting background profiler...
+[23:17:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:17:16] [Server thread/INFO]: [Geyser-Spigot] 
+[23:17:16] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
+[23:17:16] [Server thread/INFO]: [Geyser-Spigot] 
+[23:17:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:17:23] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3550
+[23:17:23] [Server thread/INFO]: [Geyser-Spigot] Done (7.252s)! Run /geyser help for help!
+[23:17:23] [Server thread/INFO]: Done preparing level "world" (11.096s)
+[23:17:23] [Server thread/INFO]: Running delayed init tasks
+[23:17:23] [Server thread/INFO]: Done (30.089s)! For help, type "help"
+[23:17:23] [Server thread/INFO]: Timings Reset
+[23:17:23] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[23:17:23] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.1, you're on: 5.2.0
+[23:17:52] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
+[23:17:54] [Server thread/INFO]: LagTrainZ joined the game
+[23:17:54] [Server thread/INFO]: LagTrainZ[/127.205.196.112:57287] logged in with entity id 23 at ([world]194.0770634590033, 75.9375, -99.41011751662637)
+[23:19:18] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:19:18] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:19:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:19:18] [Server thread/INFO]: .Demonezzz joined the game
+[23:19:18] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 420 at ([world]-11.053347, 32.376569501761345, 353.46597)
+[23:19:28] [Server thread/INFO]: LagTrainZ issued server command: /tp .Demonezzz
+[23:19:28] [Server thread/INFO]: [LagTrainZ: Teleported LagTrainZ to .Demonezzz]
+[23:20:01] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[23:20:01] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:20:01] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[23:20:01] [Server thread/INFO]: .Demonezzz left the game
+[23:20:16] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:20:16] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:20:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:20:17] [Server thread/INFO]: .Demonezzz joined the game
+[23:20:17] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 844 at ([world]-21.153406, 44.0, 370.69999)
+[23:20:30] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[23:20:30] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[23:20:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[23:20:30] [Server thread/INFO]: .LautaroZzq joined the game
+[23:20:30] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 863 at ([world]-1229.4996, 13.0, -474.20975)
+[23:20:37] [Server thread/INFO]: LagTrainZ has made the advancement [Acquire Hardware]
+[23:20:51] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> pera
+[23:21:01] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[23:21:01] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:21:01] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[23:21:01] [Server thread/INFO]: .Demonezzz left the game
+[23:21:02] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
+[23:21:02] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[23:21:02] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[23:21:02] [Server thread/INFO]: .LautaroZzq left the game
+[23:21:23] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:21:23] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:21:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:21:23] [Server thread/INFO]: .Demonezzz joined the game
+[23:21:23] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1254 at ([world]-22.349216, 47.0, 386.16495)
+[23:21:26] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[23:21:26] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[23:21:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[23:21:26] [Server thread/INFO]: .LautaroZzq joined the game
+[23:21:26] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 1262 at ([world]-1229.4996, 13.0, -474.20975)
+[23:22:03] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
+[23:22:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[23:22:03] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[23:22:03] [Server thread/INFO]: .LautaroZzq left the game
+[23:22:03] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:22:03] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[23:22:03] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[23:22:03] [Server thread/INFO]: .Demonezzz left the game
+[23:22:13] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:22:13] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:22:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:22:13] [Server thread/INFO]: .Demonezzz joined the game
+[23:22:13] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1634 at ([world]-20.101482, 47.0, 399.04547)
+[23:22:17] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[23:22:17] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[23:22:18] [User Authenticator #1/INFO]: UUID of player LautaroZzq is 7b8089dc-a7ba-3e89-bf46-abad58d430c9
+[23:22:18] [Server thread/INFO]: LautaroZzq joined the game
+[23:22:18] [Server thread/INFO]: LautaroZzq[/127.0.0.1:0] logged in with entity id 1645 at ([world]9.5, 85.0, 8.5)
+[23:22:59] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
+[23:22:59] [Server thread/INFO]: LautaroZzq lost connection: Disconnected
+[23:22:59] [Server thread/INFO]: LautaroZzq left the game
+[23:22:59] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:22:59] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[23:22:59] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[23:22:59] [Server thread/INFO]: .Demonezzz left the game
+[23:23:23] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:23:23] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:23:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:23:23] [Server thread/INFO]: .Demonezzz joined the game
+[23:23:23] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1935 at ([world]-18.494335, 47.0, 399.30685)
+[23:23:26] [Server thread/INFO]: Stopping the server
+[23:23:26] [Server thread/INFO]: Stopping server
+[23:23:26] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[23:23:26] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[23:23:26] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[23:23:26] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[23:23:26] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[23:23:26] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Apagando el proxy de Geyser.
+[23:23:26] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:23:26] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[23:23:26] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[23:23:26] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[23:23:26] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[23:23:26] [Server thread/INFO]: Saving players
+[23:23:26] [Server thread/INFO]: LagTrainZ lost connection: Server closed
+[23:23:26] [Server thread/INFO]: LagTrainZ left the game
+[23:23:26] [Server thread/INFO]: .Demonezzz lost connection: Server closed
+[23:23:26] [Server thread/INFO]: .Demonezzz left the game
+[23:23:26] [WebSocketConnectReadThread-95/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[23:23:26] [Server thread/INFO]: Saving worlds
+[23:23:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:23:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:23:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:23:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Saved 969 block chunks, 1061 entity chunks, 0 poi chunks in world 'world' in 1.45s
+[23:23:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[23:23:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:23:28] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:23:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
