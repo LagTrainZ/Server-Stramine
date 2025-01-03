@@ -1044,5 +1044,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2025-01-03 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-01-03 22:09:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
