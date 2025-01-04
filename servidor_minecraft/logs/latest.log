@@ -124,3 +124,24 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [22:53:16] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
 [22:58:26] [Server thread/INFO]: LagTrainZ issued server command: /weather clear
 [22:58:26] [Server thread/INFO]: [LagTrainZ: Set the weather to clear]
+[23:29:04] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[23:29:04] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
+[23:31:00] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:31:00] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:31:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:31:00] [Server thread/INFO]: .Demonezzz joined the game
+[23:31:00] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 15208 at ([world]-22.43106, 47.0, 387.73447)
+[23:31:19] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[23:31:19] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:31:19] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[23:31:19] [Server thread/INFO]: .Demonezzz left the game
+[23:31:24] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:31:24] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:31:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:31:24] [Server thread/INFO]: .Demonezzz joined the game
+[23:31:24] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 15475 at ([world]-22.43106, 47.0, 387.73447)
+[23:31:36] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> todo bien?
+[23:31:53] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[23:31:53] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:31:53] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[23:31:53] [Server thread/INFO]: .Demonezzz left the game
