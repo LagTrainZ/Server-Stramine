@@ -109,3 +109,6 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [21:21:58] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
 [21:22:00] [Server thread/INFO]: LagTrainZ joined the game
 [21:22:01] [Server thread/INFO]: LagTrainZ[/127.205.196.112:47693] logged in with entity id 24 at ([world]-19.33648099413206, 47.0, 400.4681506069091)
+[21:37:56] [Server thread/INFO]: LagTrainZ issued server command: /time setr day
+[21:38:04] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[21:38:04] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
