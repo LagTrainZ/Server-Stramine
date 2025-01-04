@@ -120,3 +120,7 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [22:31:03] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
 [22:42:08] [Server thread/INFO]: LagTrainZ issued server command: /time set day
 [22:42:08] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
+[22:53:16] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[22:53:16] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
+[22:58:26] [Server thread/INFO]: LagTrainZ issued server command: /weather clear
+[22:58:26] [Server thread/INFO]: [LagTrainZ: Set the weather to clear]
