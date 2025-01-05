@@ -836,3 +836,131 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [01:54:42] [Async Chat Thread - #44/INFO]: [Not Secure] <.Valekrack8759> (ФωФ)
 [01:54:59] [Server thread/INFO]: LagTrainZ issued server command: /tp .LautaroZzq
 [01:54:59] [Server thread/INFO]: [LagTrainZ: Teleported LagTrainZ to .LautaroZzq]
+[01:57:18] [Server thread/INFO]: LagTrainZ issued server command: /kill
+[01:57:18] [Server thread/INFO]: LagTrainZ was killed
+[01:57:18] [Server thread/INFO]: [LagTrainZ: Killed LagTrainZ]
+[01:57:30] [Async Chat Thread - #46/INFO]: [Not Secure] <LagTrainZ> xd
+[01:57:44] [Async Chat Thread - #46/INFO]: [Not Secure] <.Valekrack8759> ( -∀・)
+[01:57:55] [Async Chat Thread - #46/INFO]: [Not Secure] <.Valekrack8759> ("⌒∇⌒")
+[01:58:09] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[01:58:09] [localSession-7-4/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[01:58:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[01:58:10] [Server thread/INFO]: .ezebrooo joined the game
+[01:58:10] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 50683 at ([world]165.83804, 76.0, -92.182274)
+[01:58:33] [Async Chat Thread - #46/INFO]: [Not Secure] <LagTrainZ> qué necesitás?
+[01:58:51] [Async Chat Thread - #46/INFO]: [Not Secure] <LagTrainZ> mentira
+[01:58:59] [Async Chat Thread - #46/INFO]: [Not Secure] <LagTrainZ> andate a minar
+[01:59:05] [Async Chat Thread - #46/INFO]: [Not Secure] <LagTrainZ> yo hago la casa xd
+[01:59:18] [Async Chat Thread - #46/INFO]: [Not Secure] <LagTrainZ> pera
+[02:00:12] [Async Chat Thread - #46/INFO]: [Not Secure] <LagTrainZ> me da flojera
+[02:01:51] [Server thread/INFO]: LagTrainZ issued server command: /tp .LautaroZzq LagTrainZ
+[02:01:51] [Server thread/INFO]: [LagTrainZ: Teleported .LautaroZzq to LagTrainZ]
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:01:51] [Server thread/WARN]: .LautaroZzq moved too quickly! 4208.383742583471,10.0,-849.3773392310336
+[02:03:14] [Async Chat Thread - #48/INFO]: [Not Secure] <LagTrainZ> 7 meses
+[02:03:37] [Async Chat Thread - #48/INFO]: [Not Secure] <LagTrainZ> 59 de hierro me diste
+[02:03:43] [Async Chat Thread - #48/INFO]: [Not Secure] <LagTrainZ> más lo del Eze
+[02:04:11] [Async Chat Thread - #48/INFO]: [Not Secure] <LagTrainZ> voy
