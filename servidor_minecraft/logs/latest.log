@@ -232,3 +232,8 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [23:39:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
 [23:39:38] [Server thread/INFO]: .LautaroZzq joined the game
 [23:39:38] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 19292 at ([world]44.348263, -27.0, -157.45497)
+[23:47:22] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[23:47:22] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[23:47:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[23:47:22] [Server thread/INFO]: .Demonezzz joined the game
+[23:47:22] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 20076 at ([world]-22.5, 47.0, 387.5)
