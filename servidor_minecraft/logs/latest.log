@@ -1,32 +1,32 @@
-[02:36:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[02:36:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[02:36:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:36:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[02:36:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[02:50:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[02:50:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[02:50:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:50:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[02:50:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - Geyser-Spigot (2.6.0-SNAPSHOT), SkinsRestorer (15.5.1), ViaBackwards (5.0.3), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[02:36:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:36:59] [ServerMain/INFO]: Loaded 1290 recipes
-[02:36:59] [ServerMain/INFO]: Loaded 1399 advancements
-[02:37:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:37:00] [Server thread/INFO]: Loading properties
-[02:37:00] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:37:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:37:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:37:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:37:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:37:02] [Server thread/INFO]: Default game type: SURVIVAL
-[02:37:02] [Server thread/INFO]: Generating keypair
-[02:37:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:37:02] [Server thread/INFO]: Using epoll channel type
-[02:37:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:37:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:37:04] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[02:37:04] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[02:37:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:37:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:37:09] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[02:37:09] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[02:37:09] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
+[02:50:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:50:18] [ServerMain/INFO]: Loaded 1290 recipes
+[02:50:18] [ServerMain/INFO]: Loaded 1399 advancements
+[02:50:18] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:50:18] [Server thread/INFO]: Loading properties
+[02:50:18] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:50:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:50:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:50:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:50:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:50:20] [Server thread/INFO]: Default game type: SURVIVAL
+[02:50:20] [Server thread/INFO]: Generating keypair
+[02:50:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:50:20] [Server thread/INFO]: Using epoll channel type
+[02:50:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:50:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:50:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[02:50:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[02:50:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:50:24] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:50:25] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[02:50:25] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[02:50:25] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
 java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1to1_13.rewriter.ItemPacketRewriter1_13_1.registerLevelParticles(com.viaversion.viaversion.api.protocol.packet.ClientboundPacketType, com.viaversion.viaversion.api.type.Type)'
 	at ViaBackwards-5.0.3.jar/com.viaversion.viabackwards.protocol.v1_13_1to1_13.rewriter.ItemPacketRewriter1_13_1.registerPackets(ItemPacketRewriter1_13_1.java:72) ~[ViaBackwards-5.0.3.jar:?]
 	at ViaVersion-5.2.1.jar/com.viaversion.viaversion.api.rewriter.RewriterBase.register(RewriterBase.java:36) ~[ViaVersion-5.2.1.jar:?]
@@ -50,210 +50,180 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:37:09] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[02:37:11] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[02:37:11] [Server thread/INFO]: [floodgate] Took 2,144ms to boot Floodgate
-[02:37:11] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[02:37:11] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[02:37:14] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:37:14] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:37:14] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[02:37:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:37:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[02:37:15] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:37:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[02:37:16] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[02:37:17] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:37:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:37:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:37:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:37:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:37:17] [Server thread/INFO]: Preparing level "world"
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:37:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:37:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:37:20] [Server thread/INFO]: Time elapsed: 2483 ms
-[02:37:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:37:21] [Server thread/INFO]: Time elapsed: 594 ms
-[02:37:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:37:21] [Server thread/INFO]: Time elapsed: 497 ms
-[02:37:21] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[02:37:21] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:37:21] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[02:37:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[02:37:22] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[02:37:23] [Server thread/INFO]: [spark] Starting background profiler...
-[02:37:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:37:24] [Server thread/INFO]: [Geyser-Spigot] 
-[02:37:24] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
-[02:37:24] [Server thread/INFO]: [Geyser-Spigot] 
-[02:37:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:37:33] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3550
-[02:37:33] [Server thread/INFO]: [Geyser-Spigot] Done (8.947s)! Run /geyser help for help!
-[02:37:33] [Server thread/INFO]: Done preparing level "world" (15.981s)
-[02:37:33] [Server thread/INFO]: Running delayed init tasks
-[02:37:33] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:37:33] [Server thread/INFO]: Done (42.962s)! For help, type "help"
-[02:37:33] [Server thread/INFO]: Timings Reset
-[02:38:05] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
-[02:38:07] [Server thread/INFO]: LagTrainZ joined the game
-[02:38:08] [Server thread/INFO]: LagTrainZ[/127.205.196.112:44779] logged in with entity id 22 at ([world]160.82297160561475, 75.0, -47.01695182623635)
-[02:38:10] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e4dceb4c-c2e3-4a82-b920-60af618792b5, mapped to EnderMan['Enderman'/199, uuid='e4dceb4c-c2e3-4a82-b920-60af618792b5', l='ServerLevel[world]', x=322.68, y=-25.00, z=-19.32, cpos=[20, -2], tl=10820, v=true], can't add EnderMan['Enderman'/208, uuid='e4dceb4c-c2e3-4a82-b920-60af618792b5', l='ServerLevel[world]', x=336.97, y=-25.00, z=-17.23, cpos=[21, -2], tl=5823, v=false]
-[02:38:23] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
-[02:38:23] [localSession-7-2/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
-[02:38:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
-[02:38:24] [Server thread/INFO]: .ezebrooo joined the game
-[02:38:24] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 412 at ([world]162.88425, 76.0, -96.80179)
-[02:38:56] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
-[02:38:56] [localSession-7-3/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
-[02:38:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
-[02:38:57] [Server thread/INFO]: .Valekrack8759 joined the game
-[02:38:57] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 453 at ([world]209.55785, 15.0, -27.351007)
-[02:39:02] [localSession-7-2/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
-[02:39:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
-[02:39:02] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
-[02:39:02] [Server thread/INFO]: .ezebrooo left the game
-[02:39:15] [localSession-7-3/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
-[02:39:15] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
-[02:39:15] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
-[02:39:15] [Server thread/INFO]: .Valekrack8759 left the game
-[02:39:22] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
-[02:39:22] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
-[02:39:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
-[02:39:23] [Server thread/INFO]: .Valekrack8759 joined the game
-[02:39:23] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 530 at ([world]209.55785, 15.0, -27.351007)
-[02:39:30] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
-[02:39:30] [localSession-7-1/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
-[02:39:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
-[02:39:30] [Server thread/INFO]: .ezebrooo joined the game
-[02:39:30] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 542 at ([world]148.64944, 77.0, -91.66091)
-[02:41:06] [Server thread/WARN]: .Valekrack8759 moved too quickly! -10.257150000000024,0.0,3.2740399999999994
-[02:41:21] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
-[02:41:21] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
-[02:41:21] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
-[02:41:21] [Server thread/INFO]: .LautaroZzq joined the game
-[02:41:21] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 764 at ([world]157.74211, 75.0, -46.88476)
-[02:41:36] [Server thread/INFO]: .LautaroZzq was slain by Zombie
-[02:42:09] [Server thread/INFO]: LagTrainZ issued server command: /time set
-[02:42:14] [Server thread/INFO]: LagTrainZ issued server command: /time set day
-[02:42:14] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
-[02:42:42] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client disconnected
-[02:42:42] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
-[02:42:42] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
-[02:42:42] [Server thread/INFO]: .LautaroZzq left the game
-[02:43:12] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
-[02:43:12] [localSession-7-3/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
-[02:43:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
-[02:43:12] [Server thread/INFO]: .LautaroZzq joined the game
-[02:43:12] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 1035 at ([world]130.5305, 76.0, -109.47869)
-[02:43:57] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> la casa es de ustedes
-[02:44:02] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> ustedes deciden
-[02:44:10] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> lleguen a un acuerdo
-[02:44:36] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
-[02:44:36] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
-[02:44:36] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
-[02:44:36] [Server thread/INFO]: .Valekrack8759 left the game
-[02:44:42] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> tengo que reiniciar el server para ponerlo en pacífico
-[02:45:05] [Server thread/WARN]: .ezebrooo moved too quickly! -9.355770000000007,0.5,3.7543199999999928
-[02:45:29] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
-[02:45:29] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
-[02:45:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
-[02:45:29] [Server thread/INFO]: .Valekrack8759 joined the game
-[02:45:29] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 1345 at ([world]203.37926, 38.0, -31.924572)
-[02:45:50] [Async Chat Thread - #2/INFO]: [Not Secure] <LagTrainZ> pero decidan entre ustedes
-[02:46:07] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
-[02:46:07] [localSession-7-1/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
-[02:46:07] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
-[02:46:07] [Server thread/INFO]: .ezebrooo left the game
-[02:46:08] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
-[02:46:08] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
-[02:46:08] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
-[02:46:08] [Server thread/INFO]: .Valekrack8759 left the game
-[02:46:08] [localSession-7-3/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
-[02:46:08] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
-[02:46:08] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
-[02:46:08] [Server thread/INFO]: .LautaroZzq left the game
-[02:46:24] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
-[02:46:24] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
-[02:46:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
-[02:46:25] [Server thread/INFO]: .LautaroZzq joined the game
-[02:46:25] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 1457 at ([world]140.26578, 82.0, -83.3888)
-[02:46:30] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
-[02:46:30] [localSession-7-2/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
-[02:46:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
-[02:46:30] [Server thread/INFO]: .ezebrooo joined the game
-[02:46:30] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 1465 at ([world]140.29385, 82.0, -89.40815)
-[02:46:33] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
-[02:46:33] [localSession-7-3/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
-[02:46:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
-[02:46:33] [Server thread/INFO]: .Valekrack8759 joined the game
-[02:46:33] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 1467 at ([world]203.37926, 38.0, -31.924572)
-[02:47:07] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
-[02:47:07] [localSession-7-3/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
-[02:47:07] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
-[02:47:07] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
-[02:47:07] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
-[02:47:07] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
-[02:47:07] [localSession-7-2/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
-[02:47:07] [Server thread/INFO]: .LautaroZzq left the game
-[02:47:07] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
-[02:47:07] [Server thread/INFO]: .ezebrooo left the game
-[02:47:07] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
-[02:47:07] [Server thread/INFO]: .Valekrack8759 left the game
-[02:47:27] [Server thread/INFO]: LagTrainZ lost connection: Disconnected
-[02:47:27] [Server thread/INFO]: LagTrainZ left the game
-[02:47:35] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
-[02:47:35] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
-[02:47:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
-[02:47:35] [Server thread/INFO]: .LautaroZzq joined the game
-[02:47:35] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 1575 at ([world]141.25357, 82.0, -83.35071)
-[02:47:36] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
-[02:47:38] [Server thread/INFO]: Stopping the server
-[02:47:38] [Server thread/INFO]: Stopping server
-[02:47:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
-[02:47:38] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Apagando el proxy de Geyser.
-[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
-[02:47:38] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
-[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[02:47:38] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[02:47:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[02:47:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
-[02:47:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:47:38] [Server thread/INFO]: Saving players
-[02:47:38] [Server thread/INFO]: .LautaroZzq lost connection: Server closed
-[02:47:38] [Server thread/INFO]: .LautaroZzq left the game
-[02:47:38] [WebSocketConnectReadThread-98/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[02:47:38] [Server thread/INFO]: Saving worlds
-[02:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 96 block chunks, 221 entity chunks, 0 poi chunks in world 'world' in 0.17s
-[02:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[02:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:50:25] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[02:50:26] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[02:50:27] [Server thread/INFO]: [floodgate] Took 1,509ms to boot Floodgate
+[02:50:27] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[02:50:27] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[02:50:28] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[02:50:28] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[02:50:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[02:50:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:50:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[02:50:29] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:50:30] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[02:50:30] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[02:50:31] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:50:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:50:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:50:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:50:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:50:31] [Server thread/INFO]: Preparing level "world"
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:50:31] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:50:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:50:33] [Server thread/INFO]: Time elapsed: 1057 ms
+[02:50:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:50:33] [Server thread/INFO]: Time elapsed: 194 ms
+[02:50:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:50:33] [Server thread/INFO]: Time elapsed: 111 ms
+[02:50:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[02:50:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[02:50:33] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[02:50:34] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[02:50:34] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[02:50:34] [Server thread/INFO]: [spark] Starting background profiler...
+[02:50:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:50:35] [Server thread/INFO]: [Geyser-Spigot] 
+[02:50:35] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b739 (git-master-623ec2b)
+[02:50:35] [Server thread/INFO]: [Geyser-Spigot] 
+[02:50:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:50:42] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3550
+[02:50:42] [Server thread/INFO]: [Geyser-Spigot] Done (7.091s)! Run /geyser help for help!
+[02:50:42] [Server thread/INFO]: Done preparing level "world" (10.864s)
+[02:50:42] [Server thread/INFO]: Running delayed init tasks
+[02:50:42] [Server thread/INFO]: Done (31.524s)! For help, type "help"
+[02:50:42] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:50:42] [Server thread/INFO]: Timings Reset
+[02:51:47] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
+[02:51:47] [localSession-7-2/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
+[02:51:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
+[02:51:48] [Server thread/INFO]: .Valekrack8759 joined the game
+[02:51:48] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 24 at ([world]203.37926, 38.0, -31.924572)
+[02:52:03] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[02:52:03] [localSession-7-3/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[02:52:03] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[02:52:03] [Server thread/INFO]: .ezebrooo joined the game
+[02:52:03] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 282 at ([world]144.3716, 82.0, -84.522995)
+[02:52:04] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
+[02:52:06] [Server thread/INFO]: LagTrainZ joined the game
+[02:52:06] [Server thread/INFO]: LagTrainZ[/127.205.196.112:59293] logged in with entity id 283 at ([world]146.18043876619774, 77.0, -92.32080556619945)
+[02:52:14] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> ola :v
+[02:52:17] [localSession-7-2/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
+[02:52:17] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
+[02:52:17] [localSession-7-3/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
+[02:52:17] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
+[02:52:17] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
+[02:52:17] [Server thread/INFO]: .Valekrack8759 left the game
+[02:52:17] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
+[02:52:17] [Server thread/INFO]: .ezebrooo left the game
+[02:52:32] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[02:52:32] [localSession-7-4/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[02:52:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[02:52:32] [Server thread/INFO]: .ezebrooo joined the game
+[02:52:32] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 349 at ([world]144.3716, 82.0, -84.522995)
+[02:52:54] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
+[02:52:54] [localSession-7-1/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
+[02:52:54] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
+[02:52:54] [Server thread/INFO]: .Valekrack8759 joined the game
+[02:52:54] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 382 at ([world]203.37926, 38.0, -31.924572)
+[02:53:12] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> dame esos libros
+[02:53:18] [Async Chat Thread - #0/INFO]: [Not Secure] <LagTrainZ> te doy el bloque
+[02:53:19] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
+[02:53:19] [localSession-7-1/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
+[02:53:19] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
+[02:53:19] [Server thread/INFO]: .Valekrack8759 left the game
+[02:53:19] [localSession-7-4/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
+[02:53:19] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
+[02:53:19] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
+[02:53:19] [Server thread/INFO]: .ezebrooo left the game
+[02:53:27] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[02:53:27] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[02:53:27] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[02:53:27] [Server thread/INFO]: .LautaroZzq joined the game
+[02:53:27] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 471 at ([world]141.25357, 82.0, -83.35071)
+[02:53:35] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[02:53:35] [localSession-7-3/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[02:53:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[02:53:36] [Server thread/INFO]: .ezebrooo joined the game
+[02:53:36] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 481 at ([world]146.91278, 82.0, -98.3)
+[02:53:46] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
+[02:53:46] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
+[02:53:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
+[02:53:46] [Server thread/INFO]: .Valekrack8759 joined the game
+[02:53:46] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 494 at ([world]203.37926, 38.0, -31.924572)
+[02:54:18] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
+[02:54:18] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
+[02:54:18] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
+[02:54:18] [Server thread/INFO]: .Valekrack8759 left the game
+[02:54:18] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
+[02:54:18] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[02:54:18] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[02:54:18] [Server thread/INFO]: .LautaroZzq left the game
+[02:54:18] [localSession-7-3/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
+[02:54:18] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
+[02:54:18] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
+[02:54:18] [Server thread/INFO]: .ezebrooo left the game
+[02:54:22] [Server thread/INFO]: LagTrainZ lost connection: Disconnected
+[02:54:22] [Server thread/INFO]: LagTrainZ left the game
+[02:55:57] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LagTrain1951
+[02:55:57] [localSession-7-1/INFO]: [Geyser-Spigot] LagTrain1951 (logged in as: LagTrain1951) has connected to the Java server
+[02:55:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 joined (UUID: 00000000-0000-0000-0009-01f865859a0b)
+[02:55:57] [Server thread/INFO]: .LagTrain1951 joined the game
+[02:55:57] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 587 at ([world]0.8046999, 67.0, 383.90097)
+[02:56:24] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
+[02:56:24] [localSession-7-1/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client timed out
+[02:56:24] [Server thread/INFO]: .LagTrain1951 lost connection: Disconnected
+[02:56:24] [Server thread/INFO]: .LagTrain1951 left the game
+[02:56:40] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LagTrain1951
+[02:56:40] [localSession-7-2/INFO]: [Geyser-Spigot] LagTrain1951 (logged in as: LagTrain1951) has connected to the Java server
+[02:56:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 joined (UUID: 00000000-0000-0000-0009-01f865859a0b)
+[02:56:40] [Server thread/INFO]: .LagTrain1951 joined the game
+[02:56:40] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 824 at ([world]0.8046999, 67.0, 383.90097)
+[02:57:24] [localSession-7-2/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client timed out
+[02:57:24] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
+[02:57:24] [Server thread/INFO]: .LagTrain1951 lost connection: Disconnected
+[02:57:24] [Server thread/INFO]: .LagTrain1951 left the game
+[02:57:36] [Server thread/INFO]: Stopping the server
+[02:57:37] [Server thread/INFO]: Stopping server
+[02:57:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[02:57:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[02:57:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[02:57:37] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[02:57:37] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[02:57:37] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[02:57:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[02:57:37] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:57:37] [Server thread/INFO]: Saving players
+[02:57:37] [WebSocketConnectReadThread-95/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[02:57:37] [Server thread/INFO]: Saving worlds
+[02:57:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Saved 137 block chunks, 248 entity chunks, 0 poi chunks in world 'world' in 0.28s
+[02:57:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[02:57:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:57:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:57:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
