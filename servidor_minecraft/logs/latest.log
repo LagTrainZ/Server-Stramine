@@ -213,3 +213,22 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [23:24:57] [Server thread/INFO]: Set the time to 1000
 [23:26:54] [Server thread/INFO]: .Demonezzz burned to death
 [23:27:04] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[23:31:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+...e Demonezz<--[HERE]
+[23:31:59] [Server thread/INFO]: Expected integer
+...4 diamond Demonezzz<--[HERE]
+[23:32:42] [Server thread/INFO]: No player was found
+[23:36:23] [Server thread/INFO]: .Demonezzz has made the advancement [We Need to Go Deeper]
+[23:38:31] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[23:38:31] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client disconnected
+[23:38:31] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[23:38:31] [Server thread/INFO]: .Demonezzz left the game
+[23:39:18] [localSession-7-3/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
+[23:39:18] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[23:39:18] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[23:39:18] [Server thread/INFO]: .LautaroZzq left the game
+[23:39:38] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[23:39:38] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[23:39:38] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[23:39:38] [Server thread/INFO]: .LautaroZzq joined the game
+[23:39:38] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 19292 at ([world]44.348263, -27.0, -157.45497)
