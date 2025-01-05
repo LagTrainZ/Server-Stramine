@@ -207,3 +207,44 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [00:32:56] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
 [00:32:56] [Server thread/INFO]: .LagTrain1951 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
 [00:32:56] [Server thread/INFO]: .LagTrain1951 left the game
+[00:34:03] [User Authenticator #0/INFO]: UUID of player LagTrainZ is ea186a45-40c1-36a2-942f-4734233c1aef
+[00:34:06] [Server thread/INFO]: LagTrainZ joined the game
+[00:34:06] [Server thread/INFO]: LagTrainZ[/127.205.196.112:51429] logged in with entity id 5206 at ([world]185.7406939476364, 111.36247173330642, -89.61013411771938)
+[00:34:27] [Async Chat Thread - #6/INFO]: [Not Secure] <LagTrainZ> en el bedrock no puedo usar comandos
+[00:34:32] [Async Chat Thread - #6/INFO]: [Not Secure] <LagTrainZ> toy en java
+[00:35:03] [Server thread/INFO]: LagTrainZ issued server command: /tp .LautaroZzq
+[00:35:03] [Server thread/INFO]: [LagTrainZ: Teleported LagTrainZ to .LautaroZzq]
+[00:35:27] [Server thread/INFO]: LagTrainZ issued server command: /tp .ezebrooo
+[00:35:27] [Server thread/INFO]: [LagTrainZ: Teleported LagTrainZ to .ezebrooo]
+[00:36:08] [Server thread/INFO]: .ezebrooo was shot by Skeleton
+[00:36:37] [Server thread/INFO]: .Valekrack8759 has made the advancement [Sweet Dreams]
+[00:36:50] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
+[00:36:50] [localSession-7-1/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
+[00:36:50] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
+[00:36:50] [Server thread/INFO]: .ezebrooo left the game
+[00:37:02] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[00:37:10] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[00:37:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[00:37:17] [localSession-7-2/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[00:37:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[00:37:18] [Server thread/INFO]: .ezebrooo joined the game
+[00:37:18] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 6903 at ([world]9.5, 78.0, 3.5)
+[00:37:26] [Server thread/INFO]: .Valekrack8759 was blown up by Creeper
+[00:37:43] [Server thread/INFO]: .Demonezzz has made the advancement [Suit Up]
+[00:38:05] [Async Chat Thread - #8/INFO]: [Not Secure] <LagTrainZ> ni idea
+[00:38:30] [Server thread/INFO]: LagTrainZ issued server command: /tp .ezebrooo
+[00:38:30] [Server thread/INFO]: [LagTrainZ: Teleported LagTrainZ to .ezebrooo]
+[00:38:38] [Server thread/INFO]: .ezebrooo has made the advancement [Sweet Dreams]
+[00:38:47] [Server thread/INFO]: LagTrainZ issued server command: /tp .Valekrack8759
+[00:38:47] [Server thread/INFO]: [LagTrainZ: Teleported LagTrainZ to .Valekrack8759]
+[00:40:03] [Server thread/INFO]: .ezebrooo has made the advancement [Stone Age]
+[00:40:39] [Server thread/INFO]: .ezebrooo has made the advancement [Getting an Upgrade]
+[00:40:46] [Server thread/INFO]: .Valekrack8759 has made the advancement [Stone Age]
+[00:40:52] [Async Chat Thread - #10/INFO]: [Not Secure] <LagTrainZ> mmm
+[00:41:00] [Async Chat Thread - #10/INFO]: [Not Secure] <LagTrainZ> noobsitos
+[00:41:05] [Server thread/INFO]: .Valekrack8759 has made the advancement [Getting an Upgrade]
+[00:41:07] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client disconnected
+[00:41:07] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:41:07] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:41:07] [Server thread/INFO]: .Demonezzz left the game
+[00:43:11] [Server thread/WARN]: .LautaroZzq moved wrongly!
