@@ -199,3 +199,61 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [02:46:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
 [02:46:33] [Server thread/INFO]: .Valekrack8759 joined the game
 [02:46:33] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 1467 at ([world]203.37926, 38.0, -31.924572)
+[02:47:07] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
+[02:47:07] [localSession-7-3/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
+[02:47:07] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
+[02:47:07] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[02:47:07] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[02:47:07] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
+[02:47:07] [localSession-7-2/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
+[02:47:07] [Server thread/INFO]: .LautaroZzq left the game
+[02:47:07] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
+[02:47:07] [Server thread/INFO]: .ezebrooo left the game
+[02:47:07] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
+[02:47:07] [Server thread/INFO]: .Valekrack8759 left the game
+[02:47:27] [Server thread/INFO]: LagTrainZ lost connection: Disconnected
+[02:47:27] [Server thread/INFO]: LagTrainZ left the game
+[02:47:35] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[02:47:35] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[02:47:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[02:47:35] [Server thread/INFO]: .LautaroZzq joined the game
+[02:47:35] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 1575 at ([world]141.25357, 82.0, -83.35071)
+[02:47:36] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[02:47:38] [Server thread/INFO]: Stopping the server
+[02:47:38] [Server thread/INFO]: Stopping server
+[02:47:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[02:47:38] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Apagando el proxy de Geyser.
+[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[02:47:38] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[02:47:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[02:47:38] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[02:47:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[02:47:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[02:47:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:47:38] [Server thread/INFO]: Saving players
+[02:47:38] [Server thread/INFO]: .LautaroZzq lost connection: Server closed
+[02:47:38] [Server thread/INFO]: .LautaroZzq left the game
+[02:47:38] [WebSocketConnectReadThread-98/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[02:47:38] [Server thread/INFO]: Saving worlds
+[02:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 96 block chunks, 221 entity chunks, 0 poi chunks in world 'world' in 0.17s
+[02:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[02:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
