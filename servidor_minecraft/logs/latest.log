@@ -147,3 +147,63 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [00:23:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
 [00:23:02] [Server thread/INFO]: .Demonezzz joined the game
 [00:23:02] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 846 at ([world]-22.30001, 47.0, 388.33298)
+[00:23:27] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[00:23:27] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:23:27] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:23:27] [Server thread/INFO]: .Demonezzz left the game
+[00:24:01] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[00:24:01] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[00:24:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[00:24:01] [Server thread/INFO]: .Demonezzz joined the game
+[00:24:01] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1094 at ([world]-22.30001, 47.0, 388.33298)
+[00:24:26] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[00:24:26] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:24:26] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:24:26] [Server thread/INFO]: .Demonezzz left the game
+[00:25:05] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username LagTrain1951
+[00:25:05] [localSession-7-4/INFO]: [Geyser-Spigot] LagTrain1951 (logged in as: LagTrain1951) has connected to the Java server
+[00:25:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 joined (UUID: 00000000-0000-0000-0009-01f865859a0b)
+[00:25:05] [Server thread/INFO]: .LagTrain1951 joined the game
+[00:25:05] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 1336 at ([world]194.83984, 91.92091, -63.53409)
+[00:25:20] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
+[00:25:20] [localSession-7-4/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client disconnected
+[00:25:20] [Server thread/INFO]: .LagTrain1951 lost connection: Disconnected
+[00:25:20] [Server thread/INFO]: .LagTrain1951 left the game
+[00:25:34] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LagTrain1951
+[00:25:34] [localSession-7-1/INFO]: [Geyser-Spigot] LagTrain1951 (logged in as: LagTrain1951) has connected to the Java server
+[00:25:35] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 joined (UUID: 00000000-0000-0000-0009-01f865859a0b)
+[00:25:35] [Server thread/INFO]: .LagTrain1951 joined the game
+[00:25:35] [Server thread/INFO]: .LagTrain1951[/127.0.0.1:0] logged in with entity id 1476 at ([world]192.81592, 91.92091, -64.6994)
+[00:25:57] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[00:25:57] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[00:25:57] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[00:25:57] [Server thread/INFO]: .Demonezzz joined the game
+[00:25:57] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1603 at ([world]-22.30001, 47.0, 388.33298)
+[00:27:01] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[00:27:01] [localSession-7-3/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[00:27:01] [Server thread/INFO]: .LagTrain1951 issued server command: /tp Demonezzz
+[00:27:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[00:27:02] [Server thread/INFO]: .LautaroZzq joined the game
+[00:27:02] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 2090 at ([world]-1229.4996, 13.0, -474.20975)
+[00:27:49] [Async Chat Thread - #0/INFO]: [Not Secure] <.LagTrain1951> holauta
+[00:27:57] [Async Chat Thread - #0/INFO]: [Not Secure] <.LagTrain1951> ola prro :v
+[00:29:24] [Async Chat Thread - #2/INFO]: [Not Secure] <.LagTrain1951> que comparta pantalla
+[00:29:30] [Server thread/INFO]: .LagTrain1951 has made the advancement [Stone Age]
+[00:31:05] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
+[00:31:05] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
+[00:31:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
+[00:31:06] [Server thread/INFO]: .Valekrack8759 joined the game
+[00:31:06] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 3931 at ([world]1.5, 84.0, 10.5)
+[00:31:48] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[00:31:48] [localSession-7-1/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[00:31:48] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[00:31:48] [Server thread/INFO]: .ezebrooo joined the game
+[00:31:48] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 4262 at ([world]7.5, 87.0, 9.5)
+[00:32:17] [Async Chat Thread - #4/INFO]: [Not Secure] <.Demonezzz> duerman giles
+[00:32:17] [Async Chat Thread - #4/INFO]: [Not Secure] <.LagTrain1951> apoco
+[00:32:33] [Server thread/INFO]: .LagTrain1951 has made the advancement [Sweet Dreams]
+[00:32:54] [Async Chat Thread - #4/INFO]: [Not Secure] <.LagTrain1951> adiós putines
+[00:32:56] [localSession-7-1/INFO]: [Geyser-Spigot] LagTrain1951 has disconnected from the Java server because of Bedrock client disconnected
+[00:32:56] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LagTrain1951 disconnected
+[00:32:56] [Server thread/INFO]: .LagTrain1951 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[00:32:56] [Server thread/INFO]: .LagTrain1951 left the game
