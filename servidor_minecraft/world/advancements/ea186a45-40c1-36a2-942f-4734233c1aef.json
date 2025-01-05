@@ -1998,6 +1998,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-05 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-05 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-05 01:27:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-01-05 01:22:49 +0000"
