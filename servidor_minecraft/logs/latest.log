@@ -487,3 +487,40 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [01:02:50] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
 [01:03:23] [Server thread/WARN]: .LautaroZzq moved wrongly!
 [01:03:37] [Server thread/INFO]: .ezebrooo has made the advancement [Isn't It Iron Pick]
+[01:04:30] [Server thread/INFO]: .Valekrack8759 has made the advancement [Isn't It Iron Pick]
+[01:04:58] [localSession-7-4/INFO]: [Geyser-Spigot] Valekrack8759 has disconnected from the Java server because of Bedrock client timed out
+[01:04:58] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 disconnected
+[01:04:58] [Server thread/INFO]: .Valekrack8759 lost connection: Disconnected
+[01:04:58] [Server thread/INFO]: .Valekrack8759 left the game
+[01:05:45] [localSession-7-3/INFO]: [Geyser-Spigot] ezebrooo has disconnected from the Java server because of Bedrock client timed out
+[01:05:45] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ezebrooo disconnected
+[01:05:45] [Server thread/INFO]: .ezebrooo lost connection: Disconnected
+[01:05:45] [Server thread/INFO]: .ezebrooo left the game
+[01:06:27] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[01:06:27] [localSession-7-4/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[01:06:27] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[01:06:27] [Server thread/INFO]: .ezebrooo joined the game
+[01:06:27] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 19543 at ([world]188.19025, 80.0625, -56.327625)
+[01:06:45] [Server thread/WARN]: .ezebrooo moved wrongly!
+[01:07:02] [Async Chat Thread - #20/INFO]: [Not Secure] <LagTrainZ> si me baila también el Lautaro
+[01:07:12] [Async Chat Thread - #20/INFO]: [Not Secure] <LagTrainZ> todavía no me bailó
+[01:08:28] [Async Chat Thread - #22/INFO]: [Not Secure] <LagTrainZ> mucha ropa
+[01:08:46] [Async Chat Thread - #22/INFO]: [Not Secure] <LagTrainZ> quitate ese escudo
+[01:08:55] [Async Chat Thread - #22/INFO]: [Not Secure] <LagTrainZ> no veo tus moviemientos xd
+[01:09:28] [Async Chat Thread - #22/INFO]: [Not Secure] <LagTrainZ> ya mucho
+[01:10:15] [Server thread/INFO]: .ezebrooo has made the advancement [Suit Up]
+[01:10:29] [Async Chat Thread - #24/INFO]: [Not Secure] <LagTrainZ> xDDD
+[01:10:30] [Async Chat Thread - #24/INFO]: [Not Secure] <LagTrainZ> hey
+[01:10:37] [Async Chat Thread - #24/INFO]: [Not Secure] <LagTrainZ> te pusiste ropa????
+[01:10:46] [Async Chat Thread - #24/INFO]: [Not Secure] <LagTrainZ> seee
+[01:10:50] [Async Chat Thread - #24/INFO]: [Not Secure] <LagTrainZ> lag
+[01:11:01] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[01:11:21] [Async Chat Thread - #24/INFO]: [Not Secure] <LagTrainZ> me tomo un descanso de la construcción
+[01:11:57] [Server thread/INFO]: LagTrainZ issued server command: /time set day
+[01:11:57] [Server thread/INFO]: [LagTrainZ: Set the time to 1000]
+[01:12:19] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[01:13:28] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Valekrack8759
+[01:13:28] [localSession-7-1/INFO]: [Geyser-Spigot] Valekrack8759 (logged in as: Valekrack8759) has connected to the Java server
+[01:13:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Valekrack8759 joined (UUID: 00000000-0000-0000-0009-01f167f4dbae)
+[01:13:29] [Server thread/INFO]: .Valekrack8759 joined the game
+[01:13:29] [Server thread/INFO]: .Valekrack8759[/127.0.0.1:0] logged in with entity id 23512 at ([world]191.30001, 80.0625, -57.793503)
