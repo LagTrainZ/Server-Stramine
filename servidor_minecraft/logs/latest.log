@@ -189,3 +189,23 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [22:59:09] [localSession-7-2/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client disconnected
 [22:59:09] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
 [22:59:09] [Server thread/INFO]: .Demonezzz left the game
+[22:59:46] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[22:59:46] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[22:59:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[22:59:46] [Server thread/INFO]: .Demonezzz joined the game
+[22:59:46] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 8081 at ([world]-68.354706, -19.0, 360.30001)
+[23:01:55] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[23:03:32] [Server thread/INFO]: .LautaroZzq has made the advancement [Voluntary Exile]
+[23:08:07] [Server thread/INFO]: .Demonezzz has made the advancement [Ice Bucket Challenge]
+[23:09:09] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[23:09:51] [Server thread/INFO]: .Demonezzz was blown up by Creeper
+[23:12:08] [Server thread/INFO]: .Demonezzz was slain by Zombie
+[23:14:58] [Server thread/INFO]: .LautaroZzq was slain by Zombie
+[23:17:11] [Server thread/INFO]: .LautaroZzq has made the advancement [Suit Up]
+[23:18:01] [Server thread/WARN]: .Demonezzz moved too quickly! -14.564164000000005,1.2336299999999998,3.0765200000000164
+[23:18:01] [Server thread/WARN]: .Demonezzz moved too quickly! -14.495283999999998,1.2336299999999998,2.8760200000000395
+[23:18:01] [Server thread/WARN]: .Demonezzz moved too quickly! -14.495283999999998,1.2336299999999998,2.8760200000000395
+[23:18:01] [Server thread/WARN]: .Demonezzz moved too quickly! -14.495283999999998,1.2336299999999998,2.8760200000000395
+[23:18:01] [Server thread/WARN]: .Demonezzz moved too quickly! -14.495283999999998,1.2336299999999998,2.8760200000000395
+[23:18:01] [Server thread/WARN]: .Demonezzz moved too quickly! -14.495283999999998,1.2336299999999998,2.8760200000000395
+[23:18:01] [Server thread/WARN]: .Demonezzz moved too quickly! 9.483540000000005,0.0,-5.074819999999988
