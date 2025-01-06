@@ -638,3 +638,18 @@ h<--[HERE]
 [00:37:01] [Server thread/WARN]: .Demonezzz moved wrongly!
 [00:37:45] [Server thread/INFO]: Set the time to 1000
 [00:39:28] [Server thread/WARN]: .Demonezzz moved too quickly! 3.467950000000002,0.0,-9.533280000000019
+[00:42:06] [localSession-7-3/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client disconnected
+[00:42:06] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:42:06] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:42:06] [Server thread/INFO]: .Demonezzz left the game
+[00:43:17] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[00:43:17] [localSession-7-4/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[00:43:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[00:43:18] [Server thread/INFO]: .Demonezzz joined the game
+[00:43:18] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 38064 at ([world]-82.8176, 77.0, 241.93388)
+[00:49:38] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[00:49:49] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[00:50:16] [localSession-7-4/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client disconnected
+[00:50:16] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:50:16] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:50:16] [Server thread/INFO]: .Demonezzz left the game
