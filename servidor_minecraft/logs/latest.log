@@ -653,3 +653,17 @@ h<--[HERE]
 [00:50:16] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
 [00:50:16] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
 [00:50:16] [Server thread/INFO]: .Demonezzz left the game
+[00:53:01] [localSession-7-3/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client disconnected
+[00:53:01] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[00:53:01] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[00:53:01] [Server thread/INFO]: .LautaroZzq left the game
+[00:54:23] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[00:54:23] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[00:54:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[00:54:24] [Server thread/INFO]: .LautaroZzq joined the game
+[00:54:24] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 41590 at ([world]140.25658, 83.0, -81.97081)
+[00:57:10] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[00:57:16] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client disconnected
+[00:57:16] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[00:57:16] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[00:57:16] [Server thread/INFO]: .LautaroZzq left the game
