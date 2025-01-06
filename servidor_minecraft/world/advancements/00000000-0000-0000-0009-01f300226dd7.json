@@ -1881,6 +1881,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-06 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-06 02:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-06 02:37:11 +0000"
@@ -1890,6 +1902,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-06 02:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-06 02:58:57 +0000"
     },
     "done": true
   },
@@ -1908,6 +1926,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-06 02:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-06 02:59:49 +0000"
     },
     "done": true
   },
