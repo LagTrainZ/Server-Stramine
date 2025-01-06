@@ -1,3 +1,31 @@
 [00:05:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
 h<--[HERE]
 [00:07:33] [Server thread/INFO]: .LautaroZzq has made the advancement [Cover Me with Diamonds]
+[00:11:53] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[00:11:53] [localSession-7-2/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client timed out
+[00:11:53] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[00:11:53] [Server thread/INFO]: .LautaroZzq left the game
+[00:12:29] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[00:12:29] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[00:12:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[00:12:30] [Server thread/INFO]: .LautaroZzq joined the game
+[00:12:30] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 25767 at ([world]102.37491, 74.0, -51.89366)
+[00:13:09] [localSession-7-4/INFO]: [Geyser-Spigot] LautaroZzq has disconnected from the Java server because of Bedrock client disconnected
+[00:13:09] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq disconnected
+[00:13:09] [Server thread/INFO]: .LautaroZzq lost connection: Disconnected
+[00:13:09] [Server thread/INFO]: .LautaroZzq left the game
+[00:14:51] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username LautaroZzq
+[00:14:51] [localSession-7-1/INFO]: [Geyser-Spigot] LautaroZzq (logged in as: LautaroZzq) has connected to the Java server
+[00:14:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .LautaroZzq joined (UUID: 00000000-0000-0000-0009-01f1df74ece9)
+[00:14:52] [Server thread/INFO]: .LautaroZzq joined the game
+[00:14:52] [Server thread/INFO]: .LautaroZzq[/127.0.0.1:0] logged in with entity id 26290 at ([world]104.58643, 75.0, -51.794037)
+[00:14:53] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ezebrooo
+[00:14:53] [localSession-7-2/INFO]: [Geyser-Spigot] ezebrooo (logged in as: ezebrooo) has connected to the Java server
+[00:14:54] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ezebrooo joined (UUID: 00000000-0000-0000-0009-01f834fc5989)
+[00:14:54] [Server thread/INFO]: .ezebrooo joined the game
+[00:14:54] [Server thread/INFO]: .ezebrooo[/127.0.0.1:0] logged in with entity id 26318 at ([world]145.5958, 82.0, -101.25724)
+[00:15:40] [Server thread/WARN]: .LautaroZzq moved wrongly!
+[00:17:08] [Server thread/INFO]: .ezebrooo has made the advancement [Enchanter]
+[00:18:29] [Server thread/INFO]: .ezebrooo has made the advancement [Cover Me with Diamonds]
+[00:18:36] [Server thread/INFO]: .Demonezzz has made the advancement [Ol' Betsy]
+[00:20:47] [Server thread/WARN]: .LautaroZzq moved wrongly!
