@@ -873,3 +873,6 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA7IMQAAAZQ-L6f9AAA
 TUNNELS
 details-consumer.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 partners-allah.gl.at.ply.gg:3550 => 127.0.0.1:3550 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
