@@ -206,3 +206,45 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viabackwards.protocol.v1_13_1t
 [00:46:21] [localSession-7-4/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
 [00:46:21] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
 [00:46:21] [Server thread/INFO]: .Demonezzz left the game
+[00:48:16] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[00:50:18] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Demonezzz
+[00:50:18] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz (logged in as: Demonezzz) has connected to the Java server
+[00:50:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Demonezzz joined (UUID: 00000000-0000-0000-0009-01f300226dd7)
+[00:50:19] [Server thread/INFO]: .Demonezzz joined the game
+[00:50:19] [Server thread/INFO]: .Demonezzz[/127.0.0.1:0] logged in with entity id 1804 at ([world]-14.313753, 47.0, 404.09293)
+[00:50:37] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Demonezzz disconnected
+[00:50:37] [localSession-7-1/INFO]: [Geyser-Spigot] Demonezzz has disconnected from the Java server because of Bedrock client timed out
+[00:50:37] [Server thread/INFO]: .Demonezzz lost connection: Disconnected
+[00:50:37] [Server thread/INFO]: .Demonezzz left the game
+[00:50:58] [Server thread/INFO]: Stopping the server
+[00:50:58] [Server thread/INFO]: Stopping server
+[00:50:58] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[00:50:58] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[00:50:58] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:50:58] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:50:58] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[00:50:58] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[00:50:58] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[00:50:58] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:50:58] [Server thread/INFO]: Saving players
+[00:50:58] [WebSocketConnectReadThread-96/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:50:58] [Server thread/INFO]: Saving worlds
+[00:50:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 89 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[00:50:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 24 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[00:50:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:50:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:50:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
